@@ -21,10 +21,10 @@ df = []
 stocks_list = []
 data_directory = input_excel =[]
 
-data_directory = r'D:\Stocks\Strategy_Buy25_Sell10_Stop40'  # Replace with your directory path
-input_excel = 'D:\Stocks\SP500\SP_Pull_List.xlsx'  # Replace with your input Excel file name
+data_directory = r'D:\Stocks\Strategy_Buy25_Sell10_Stop40'  
+input_excel = 'D:\Stocks\SP500\SP_Pull_List.xlsx'  # List of S&P 500 Stocks
 df = pd.read_excel(input_excel, usecols=[0,6])
-stocks_list = df['Symbol'].tolist()  # Use the actual header name for the first column
+stocks_list = df['Symbol'].tolist()  # With header name
 #stock_exchange = df['Exchange'].tolist()
 #stocks_list = stocks_list[110:130]
 #stock_exchange = stock_exchange[:10]
