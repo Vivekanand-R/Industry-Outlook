@@ -9,7 +9,7 @@ Often Stock prices do not follow a steady or consistent, predictable pattern ove
 
 
 
-# Healthcare Markets:
+# Healthcare Markets
 
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
