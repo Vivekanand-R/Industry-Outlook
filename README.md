@@ -7,3 +7,21 @@ Often Stock prices do not follow a steady or consistent, predictable pattern ove
 
 ![image](https://github.com/user-attachments/assets/b4ea63bf-e69b-4aa5-bf5d-b24805b6b06e)
 
+
+
+# Healthcare Markets:
+
+![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
+
+![image](https://github.com/user-attachments/assets/fe533a32-97ae-4fd6-992a-b74630207faf)
+
+![image](https://github.com/user-attachments/assets/7c8c29e1-4774-42d7-92f4-6b69fac23c07)
+
+![image](https://github.com/user-attachments/assets/8c31463b-a6eb-4931-9d14-01a15a85dd9a)
+
+
+
+
+
+
+
