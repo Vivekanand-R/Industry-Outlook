@@ -13,7 +13,7 @@ Often Stock prices do not follow a steady or consistent, predictable pattern ove
 
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
-![image](https://github.com/user-attachments/assets/7ce8f897-df9d-4d3f-a06a-9b3431f7cbb6)
+![image](https://github.com/user-attachments/assets/87050c3f-2dfe-495b-bd28-931da85ca32c)
 
 ![image](https://github.com/user-attachments/assets/7c8c29e1-4774-42d7-92f4-6b69fac23c07)
 
