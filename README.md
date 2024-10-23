@@ -35,7 +35,7 @@ Here are the five major factor's (Scale between 0 to 10), which we can use befor
 
 1. Salary/Growth Opportunities - It also tells us how country economy is performing,
 2. Ease of Obtaining Visa: How many skilled workers/talents does the nation attracts, or how competitive is it.
-3. Language: Of course, we invest our time to learn new language. And, how easy is it for expats. 
+3. Language: Investing our time to learn new language. And, how easy is it for expats. 
 4. Making Friends: How vibrant the culture, welcoming/reserved the people are. It also tells us how easy is to do business.
 5. Weather: How pleasant the climate is, overall. 
 
