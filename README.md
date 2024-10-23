@@ -31,7 +31,7 @@ Sales Margin %:
 **3. Investment in Major Economies:**
 **Investment** is not just about Money, Its about "**Time**" as well, if you are working for a Major economies/companies with 5-10% of your entire life time, it better to be worth it.  Insights mainly focused for Expats:
 
-Here are the five major factor's (Scale of 0 to 10), which we can use before making any investment decision:
+Here are the five major factor's (Scale between 0 to 10), which we can use before making any decision:
 
 1. Salary/Growth Oppertunities - It also tells us how country economy is performing,
 2. Ease of Obtaining Visa: How many skilled workers/talents does the country attracts, or how competitive is it.
