@@ -25,7 +25,7 @@ Often Stock prices do not follow a steady or consistent, predictable pattern ove
 Here are the five major factor's (Scale of 0 to 10), which we can use before making any investment decision:
 
 1. Salary/Growth Oppertunities - It also tells us how country economy is performing,
-2. Ease of Obtaining Visa: How many skilled worked/talents does the country attracts, or how competitive is it.
+2. Ease of Obtaining Visa: How many skilled workers/talents does the country attracts, or how competitive is it.
 3. Language: Of course, we invest our time to learn new language. And, how easy is it for expats. 
 4. Making Friends: How welcome/reserved the people are. It also tells us how easy is to do business.
 5. Weather: How pleasant the climate is. 
