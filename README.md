@@ -20,7 +20,7 @@ Often Stock prices do not follow a steady or consistent, predictable pattern ove
 ![image](https://github.com/user-attachments/assets/8c31463b-a6eb-4931-9d14-01a15a85dd9a)
 
 
-**Investment** is not just about Money, Its about "**Time**" as well, if you are working for a Major economies with 5-10% of your life time, it better to be worth it.  Focused on Expats:
+**Investment** is not just about Money, Its about "**Time**" as well, if you are working for a Major economies/companies with 5-10% of your entire life time, it better to be worth it.  Focused on Expats:
 
 Here are the five major factor's, which we can use before making any investment decision:
 
