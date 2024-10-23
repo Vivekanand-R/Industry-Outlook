@@ -15,11 +15,15 @@ Often Stock prices do not follow a steady or consistent, predictable pattern ove
 
 **2. Investment in Healthcare Markets:**
 
+Major healthcare companies:
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
+Sorted by Market Cap:
 ![image](https://github.com/user-attachments/assets/87050c3f-2dfe-495b-bd28-931da85ca32c)
 
 ![image](https://github.com/user-attachments/assets/7c8c29e1-4774-42d7-92f4-6b69fac23c07)
+
+Sales Margin %:
 
 ![image](https://github.com/user-attachments/assets/8c31463b-a6eb-4931-9d14-01a15a85dd9a)
 
