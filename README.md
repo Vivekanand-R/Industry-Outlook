@@ -29,7 +29,7 @@ Sales Margin %:
 
 
 **3. Investment in Major Economies:**
-**Investment** is not just about Money, Its about "**Time**" as well, if you are working for a Major economies/companies with 5-10% of your entire life time, it better to be worth it.  Insights mainly focused for Expats:
+**Investment** is not just about Money, Its about "**Time**" as well, particularly if you are working for a Major economies/companies with 5-10% of your entire life time, it better to be worth it.  Insights mainly focused for Expats:
 
 Here are the five major factor's (Scale between 0 to 10), which we can use before making any decision:
 
