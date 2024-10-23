@@ -2,7 +2,7 @@
 
 Here we will be focusing on **three types of investment**:
 
-**Investment in Equity:**
+**1. Investment in Equities:**
 
 Predicting market movement is still challenging due to various reasons such as high dimensionality, data noise, non stationary. The stock market is influenced by countless variables, including economic indicators, company performance, geopolitical events, investor sentiment, and even natural disasters. 
 This high dimensional means there are numerous potential predictors, many of which are noisy or have weak predictive power.
@@ -13,7 +13,7 @@ Often Stock prices do not follow a steady or consistent, predictable pattern ove
 
 
 
-**Investment in Healthcare Markets:**
+**2. Investment in Healthcare Markets:**
 
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
@@ -24,7 +24,7 @@ Often Stock prices do not follow a steady or consistent, predictable pattern ove
 ![image](https://github.com/user-attachments/assets/8c31463b-a6eb-4931-9d14-01a15a85dd9a)
 
 
-**Investment in Major Economies:**
+**3. Investment in Major Economies:**
 **Investment** is not just about Money, Its about "**Time**" as well, if you are working for a Major economies/companies with 5-10% of your entire life time, it better to be worth it.  Insights mainly focused for Expats:
 
 Here are the five major factor's (Scale of 0 to 10), which we can use before making any investment decision:
