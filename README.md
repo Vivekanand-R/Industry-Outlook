@@ -1,6 +1,6 @@
 # Investment-Insights
 
-Here we will be focusing on **three types of investments**:
+Here we will be focusing mainly on **three types of investments**:
 
 **1. Investment in Equities:**
 
