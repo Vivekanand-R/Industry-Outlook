@@ -20,6 +20,11 @@ Often Stock prices do not follow a steady or consistent, predictable pattern ove
 ![image](https://github.com/user-attachments/assets/8c31463b-a6eb-4931-9d14-01a15a85dd9a)
 
 
+Investment is not just about Money, Its about "Time" as well: 
+
+Here are the five major factor's:
+
+![image](https://github.com/user-attachments/assets/d6db8fe4-b0a2-4482-9c44-d17538604aa3)
 
 
 
