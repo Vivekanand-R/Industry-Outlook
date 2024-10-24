@@ -34,10 +34,10 @@ Sales Margin %:
 
 Here are the five major factor's (Scale between 0 to 10), which can be considered while making decision:
 
-1. Salary/Growth Opportunities - It also tells us how country economy is performing,
+1. Salary/Growth Opportunities - It also tells us how country economy is performing, overall.
 2. Ease of Obtaining Visa: How many skilled workers/talents does the nation attracts, or how competitive is it.
-3. Language: Investing our time to learn new language. And, how easy is it for expats. 
-4. Making Friends: How vibrant the culture, welcoming/reserved the people are. It also tells us how easy is to do business.
+3. Language: Investing time to learn new language. And, how easy is it for expats. 
+4. Making Friends: How vibrant the culture, welcoming or reserved the people are. It also tells us how easy is to do business.
 5. Weather: How pleasant the climate is, overall. 
 
 ![image](https://github.com/user-attachments/assets/d6db8fe4-b0a2-4482-9c44-d17538604aa3)
