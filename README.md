@@ -1,6 +1,6 @@
 # Investment-Insights
 
-Here we will be focusing mainly on **four types of investments**:
+Here we will be focusing mainly on **four areas for investments**:
 
 **1. Investment in Equities:**
 
