@@ -32,7 +32,7 @@ Sales Margin %:
 **3. Investment in Major Economies:**
 Investment is not just about Money, Its about Time as well, particularly if you are a working new expat for a major economies/companies.  Insights mainly designed and focused for new Expats:
 
-Here are the five major factor's (Scale between 0 to 10), which can be considered while making decision:
+Here are the five major factor's (Scale between 0 to 10), which can be considered to survive in a new environment:
 
 1. Growth Opportunities - It may also tells us how country economy is performing, overall.
 2. Ease of Obtaining Visa: How many skilled workers/talents does the nation attracts, or how competitive is it.
