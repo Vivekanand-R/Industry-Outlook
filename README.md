@@ -1,6 +1,6 @@
 # Investment-Insights
 
-Here we will be focusing mainly on **four areas for investments**:
+Here we will mainly focus on **four areas of investments**:
 
 **1. Investment in Equities:**
 
