@@ -30,13 +30,15 @@ Sales Margin %:
 
 
 **3. Investment in Major Economies:**
-Investment is not just about Money, Its about Time as well, particularly if you are a working new expat for a major economies/companies.  Below Insights mainly focused and designed for **Expats**:
+Investment is not just about Money, Its about Time as well, particularly if you are a working new expat for a major economies/companies.  Below Insights mainly focused and designed to guide **Expats**:
+
+Expat = Anyone who lives outside their native country, irrespective of their origin. 
 
 Here are the five major factor's (Scale between 0 to 10), which may be considered:
 
 1. Growth Opportunities - It may also tells us how country economy is performing, overall.
 2. Ease of Obtaining Visa: How many skilled workers/talents does the nation attracts, or how competitive is it.
-3. Language: Time to learn new language. And, how easy is it for expats. 
+3. Language: Time to learn new language. And, how easy is it for digital normads. 
 4. Making Friends: How vibrant the culture, welcoming or bit reserved are.
 5. Weather: How pleasant the climate is, overall. 
 
