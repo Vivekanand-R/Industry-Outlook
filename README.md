@@ -30,7 +30,7 @@ Sales Margin %:
 
 
 **3. Investment in Major Economies:**
-Investment is not just about Money, Its about Time as well, particularly if you are a working new expat for a major economies/companies.  Insights mainly designed and focused for new **Expats**:
+Investment is not just about Money, Its about Time as well, particularly if you are a working new expat for a major economies/companies.  Insights mainly focused and designed for **Expats**:
 
 Here are the five major factor's (Scale between 0 to 10), which may be considered:
 
