@@ -26,7 +26,8 @@ Sorted by Market Cap:
 
 Sales Margin %:
 
-![image](https://github.com/user-attachments/assets/7593ebed-80f8-4c18-8002-71cc8faf42d7)
+![image](https://github.com/user-attachments/assets/f468d4e8-6c85-46eb-832c-ec59cb739f71)
+
 
 
 
