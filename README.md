@@ -22,7 +22,9 @@ Major healthcare companies:
 Sorted by Market Cap:
 ![image](https://github.com/user-attachments/assets/87050c3f-2dfe-495b-bd28-931da85ca32c)
 
-![image](https://github.com/user-attachments/assets/80d74ee3-4b26-4dc2-8e47-c5161df3c5e0)
+
+
+![image](https://github.com/user-attachments/assets/e9315972-3b5b-4e15-a20a-b2926722ec4b)
 
 
 Sales Margin %:
