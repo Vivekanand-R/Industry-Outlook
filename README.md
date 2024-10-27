@@ -26,7 +26,8 @@ Sorted by Market Cap:
 
 Sales Margin %:
 
-![image](https://github.com/user-attachments/assets/8c31463b-a6eb-4931-9d14-01a15a85dd9a)
+![image](https://github.com/user-attachments/assets/7593ebed-80f8-4c18-8002-71cc8faf42d7)
+
 
 
 **3. Investment in Major Economies:**
