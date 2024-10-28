@@ -34,6 +34,7 @@ Sales Margin %:
 This includes all varieties of companies. On Medical Equipment Side: GE Healthcare, Medtronics and Siemens plays a major role, other big players concentrated in the pharmaceuticals sectors. 
 
 **3. Market Insights for Expats/Digital Normads** 
+
 Expat = Anyone who lives outside their native country, irrespective of their origin.
 Below Insights mainly focused and designed for digital normads. Here are the five major factor's (Scale between 0 to 10), which may be considered:
 	1. Growth Opportunities - It may also tells us how country economy is performing, overall.
