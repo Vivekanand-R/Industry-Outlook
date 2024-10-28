@@ -31,7 +31,7 @@ Sales Margin %:
 
 ![image](https://github.com/user-attachments/assets/f468d4e8-6c85-46eb-832c-ec59cb739f71)
 
-This includes all varieties of companies. On Medical Equipment Side, GE Healthcare plays a very big role. Other companies focused mainly on the pharmaceuticals sectors. 
+This includes all varieties of companies. On Medical Equipment Side, GE Healthcare plays a very big role. Other big players concentrated in the pharmaceuticals sectors. 
 
 
 **3. Cloud Technologies Trends:**
