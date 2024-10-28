@@ -57,7 +57,7 @@ This table is mainly for preference selection. Each country has its own uniquene
 
 
 **4. Cloud Technologies Trends:**
-While it is estimated that AWS market share is 32%, Azure 23% and Google cloud is 10%.Below is the Google search trends results for cloud utilization for AWS, Google Cloud, and Azure.
+While it is estimated that AWS market share is 32%, Azure 23% and Google cloud is 10%. Below is the Google search trends results for cloud utilization for AWS, Google Cloud, and Azure.
 
 ![image](https://github.com/user-attachments/assets/d6e9115f-e91b-47f3-b471-83a13355ee70)
     Source: pytrends python package for cloud technologies.
