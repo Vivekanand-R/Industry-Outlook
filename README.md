@@ -1,4 +1,4 @@
-# Investment-Insights
+# Market-Insights
 
 Here we will mainly focus on **four areas of investments**:
 
