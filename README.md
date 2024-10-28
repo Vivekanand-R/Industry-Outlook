@@ -36,11 +36,17 @@ This includes all varieties of companies. On Medical Equipment Side: GE Healthca
 **3. Market Insights for Expats/Digital Normads** 
 
 Expat = Anyone who lives outside their native country, irrespective of their origin.
+
 Below Insights mainly focused and designed for digital normads. Here are the five major factor's (Scale between 0 to 10), which may be considered:
+
 	1. Growth Opportunities - It may also tells us how country economy is performing, overall.
+ 
 	2. Ease of Obtaining Visa: How many skilled workers/talents does the nation attracts, or how competitive is it.
+ 
 	3. Language: Time to learn new language. And, how easy is it for digital normads.
+ 
 	4. Making Friends: How vibrant the culture, welcoming or bit reserved are.
+ 
 	5. Weather: How pleasant the climate is, overall.
 
  ![image](https://github.com/user-attachments/assets/19e6142d-82af-4bdc-8244-c02ec344227a)
