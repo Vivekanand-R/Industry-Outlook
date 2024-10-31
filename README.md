@@ -29,7 +29,7 @@ Sales Margin %:
 
 ![image](https://github.com/user-attachments/assets/f468d4e8-6c85-46eb-832c-ec59cb739f71)
 
-Source: Yahoo Finance (yfinance, open source for exploratory, non-commercial and demonstration purpose)
+Source: Yahoo Finance (yfinance for exploratory, non-commercial and demonstration purpose)
 
 This includes all varieties of companies. Few players concentrated on medical equipment side, other players concentrated in the pharmaceuticals sectors. 
 
