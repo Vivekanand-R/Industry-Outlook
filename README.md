@@ -44,5 +44,12 @@ While it is estimated that AWS market share is 32%, Azure 23% and Google cloud i
 **4. Energy Sectors**
 Sales Margin % for Renewable/Energy Sector
 
+![image](https://github.com/user-attachments/assets/56e2a7c1-3491-40b8-8f4e-a3af6046991b)
+
+
 ![image](https://github.com/user-attachments/assets/2a884f64-450a-4f2a-97f8-6a8bf35bef82)
+
+
+Source: Yahoo Finance (yfinance for exploratory, non-commercial and demonstration purpose)
+
 
