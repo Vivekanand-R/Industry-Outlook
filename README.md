@@ -19,7 +19,7 @@ We can combine these basic indicators along with companies performance and funda
 Major healthcare companies:
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
-Sorted by Market Cap:
+Sorted by Alphabetical Order:
 ![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
 
 
