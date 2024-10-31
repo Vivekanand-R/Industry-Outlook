@@ -14,7 +14,7 @@ Often the stock prices do not follow a steady or consistent, predictable pattern
 We can combine these basic indicators along with companies performance and fundamentals.
 
 
-**2. Healthcare Market Insights:**
+**2. Healthcare Sector Insights:**
 
 Major healthcare companies:
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
