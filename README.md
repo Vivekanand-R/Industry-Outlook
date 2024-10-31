@@ -20,9 +20,8 @@ Major healthcare companies:
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
 Sorted by Market Cap:
-![image](https://github.com/user-attachments/assets/87050c3f-2dfe-495b-bd28-931da85ca32c)
+![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
 
-![image](https://github.com/user-attachments/assets/338b7ef2-608c-4492-a84f-edd4aa91a077)
 
 
 
