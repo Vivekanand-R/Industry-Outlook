@@ -1,6 +1,6 @@
 # Market-Insights
 
-We’ll be highlighting various insights for demonstration purposes.
+We’ll be highlighting few insights for demonstration purposes.
 
 **1. Equities Market Insights:**
 
@@ -21,10 +21,6 @@ Major healthcare companies:
 
 Sorted by Market Cap:
 ![image](https://github.com/user-attachments/assets/87050c3f-2dfe-495b-bd28-931da85ca32c)
-
-
-
-![image](https://github.com/user-attachments/assets/e9315972-3b5b-4e15-a20a-b2926722ec4b)
 
 
 Sales Margin %:
