@@ -1,6 +1,6 @@
 # Market-Insights
 
-We’ll be highlighting few insights for demonstration purposes.
+Will be highlighting few open source work/insights for demonstration purposes.
 
 **1. Equities Market Insights:**
 
