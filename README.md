@@ -33,7 +33,7 @@ Sales Margin %:
 
 Source: Yahoo Finance (yfinance, open source for educational, non-commercial and demonstration purpose)
 
-This includes all varieties of companies. On Medical Equipment Side: GE Healthcare, Medtronics and Siemens plays a major role, other big players concentrated in the pharmaceuticals sectors. 
+This includes all varieties of companies. Few big companies concentrated On Medical Equipment Side, other big players concentrated in the pharmaceuticals sectors. 
 
 
 **3. Cloud Technologies Trends - Open source:**
