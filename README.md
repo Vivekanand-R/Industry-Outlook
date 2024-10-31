@@ -31,7 +31,7 @@ Sales Margin %:
 
 Source: Yahoo Finance (yfinance, open source for exploratory, non-commercial and demonstration purpose)
 
-This includes all varieties of companies. Few big companies concentrated on Medical equipment side, other big players concentrated in the pharmaceuticals sectors. 
+This includes all varieties of companies. Few players concentrated on medical equipment side, other players concentrated in the pharmaceuticals sectors. 
 
 
 **3. Cloud Technologies Trends - Open source:**
