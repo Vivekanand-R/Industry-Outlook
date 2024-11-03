@@ -29,12 +29,12 @@ Sales Margin %:
 
 ![image](https://github.com/user-attachments/assets/f468d4e8-6c85-46eb-832c-ec59cb739f71)
 
-Source: Yahoo Finance (yfinance for exploratory, non-commercial and demonstration purpose)
+Source: Yahoo Finance (yfinance for exploratory and demonstration purpose)
 
 This includes all varieties of companies. Few players concentrated on medical equipment side, other players concentrated in the pharmaceuticals sectors. 
 
 
-**3. Cloud Technologies Trends - Open source:**
+**3. Cloud Technologies Trends:**
 While it is estimated that AWS market share is 32%, Azure 23% and Google cloud is 10%. Below is the Google search trends results for cloud utilization for AWS, Google Cloud, and Azure.
 
 ![image](https://github.com/user-attachments/assets/d6e9115f-e91b-47f3-b471-83a13355ee70)
@@ -50,6 +50,6 @@ Sales Margin % for Renewable/Energy Companies
 ![image](https://github.com/user-attachments/assets/2a884f64-450a-4f2a-97f8-6a8bf35bef82)
 
 
-Source: Yahoo Finance (yfinance for exploratory, non-commercial and demonstration purpose)
+Source: Yahoo Finance (yfinance for exploratory and demonstration purpose)
 
 
