@@ -21,8 +21,6 @@ Major healthcare companies:
 
 Sorted by Alphabetical Order:
 ![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
-(Leading publicly traded healthcare companies)
-
 
 
 Sales Margin %:
