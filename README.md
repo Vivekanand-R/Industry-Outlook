@@ -21,7 +21,7 @@ Major healthcare companies:
 
 Sorted by Alphabetical Order:
 ![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
-
+(Leading publicly traded healthcare companies)
 
 
 
@@ -29,7 +29,7 @@ Sales Margin %:
 
 ![image](https://github.com/user-attachments/assets/f468d4e8-6c85-46eb-832c-ec59cb739f71)
 
-Source: Yahoo Finance (yfinance for exploratory, non-commercial and demonstration purpose only)
+Source: Yahoo Finance (yfinance: Personal, non-commercial use per Yahoo Finance terms)
 
 This includes all varieties of companies. Few players concentrated on medical equipment side, other players concentrated in the pharmaceuticals sectors. 
 
@@ -50,6 +50,5 @@ Sales Margin % for Renewable/Energy Companies
 ![image](https://github.com/user-attachments/assets/2a884f64-450a-4f2a-97f8-6a8bf35bef82)
 
 
-Source: Yahoo Finance (yfinance for exploratory, non-commercial and demonstration purpose only)
-
+Source: Yahoo Finance (yfinance: Personal, non-commercial use per Yahoo Finance terms)
 
