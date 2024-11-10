@@ -42,6 +42,7 @@ Interesting fact: According to recent information from Google, AI is now respons
 
 
 **4. Energy Sectors** (2023/2024)
+
 Sales Margin % for Renewable/Energy Companies
 
 ![image](https://github.com/user-attachments/assets/56e2a7c1-3491-40b8-8f4e-a3af6046991b)
@@ -50,4 +51,4 @@ Sales Margin % for Renewable/Energy Companies
 ![image](https://github.com/user-attachments/assets/2a884f64-450a-4f2a-97f8-6a8bf35bef82)
 
 
-Source: Yahoo Finance (yfinance: Personal, Non-commercial use)
+Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms)
