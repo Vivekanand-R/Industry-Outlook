@@ -16,7 +16,7 @@ We can combine these basic indicators along with companies performance and funda
 
 **2. Healthcare Sector Insights:**
 
-Major healthcare companies:
+Major healthcare companies: (2023/2024)
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
 Sorted by Alphabetical Order:
@@ -41,7 +41,7 @@ Interesting fact: According to recent information from Google, AI is now respons
     Source: pytrends python package for cloud technologies.
 
 
-**4. Energy Sectors**
+**4. Energy Sectors** (2023/2024)
 Sales Margin % for Renewable/Energy Companies
 
 ![image](https://github.com/user-attachments/assets/56e2a7c1-3491-40b8-8f4e-a3af6046991b)
@@ -51,4 +51,3 @@ Sales Margin % for Renewable/Energy Companies
 
 
 Source: Yahoo Finance (yfinance: Personal, Non-commercial use)
-
