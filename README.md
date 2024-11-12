@@ -60,6 +60,6 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Comp
 
 ![image](https://github.com/user-attachments/assets/b20ffd5a-fbed-4bf3-8cc7-107dc9481097)
 
-Note: Total market cap across these industries is $2,078.27 billion (i.e. 2 Trillion) with a combined headcount of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments)
+**Key Takeaways**: Total market cap across these industries is $2,078.27 billion (i.e. 2 Trillion) with a combined headcount of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
 
 Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as per yahoo terms)
