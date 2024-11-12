@@ -77,7 +77,7 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 30 swiss Companies:
 
 ![image](https://github.com/user-attachments/assets/3e673570-4b9c-4959-97ae-665400f158c2)
 
-**Key Takeaway:** Overall, the listed industries total $1,352.80 billion (1.3 billion) in market cap and 1,279,089 employees. The main driving forces were drug manufacturing, food and beverages, and banking sectors.
+**Key Takeaway:** Overall, the listed industries total $1,352.80 billion (1.3 trillion) in market cap and 1,279,089 employees. The main driving forces were drug manufacturing, food and beverages, and banking sectors.
 
 Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as per yahoo terms)
 
