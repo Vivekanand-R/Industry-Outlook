@@ -2,19 +2,7 @@
 
 Highlighting few open source work/insights for demonstration purposes.
 
-**1. Equities Market Insights:**
-
-Predicting market movement is still challenging due to various reasons such as high dimensionality, data noise, non stationary. The stock market is influenced by countless variables, including economic indicators, company performance, geopolitical events, investor sentiment, and even natural disasters. 
-This high dimensional means there are numerous potential predictors, many of which are noisy or have weak predictive power.
-Often the stock prices do not follow a steady or consistent, predictable pattern over time. They result is in non-stationarity, meaning their statistical properties (mean, variance, etc.) change over time due to various economic cycles, regulatory changes, and market sentiment shifts.,
-
-
-![image](https://github.com/user-attachments/assets/b4ea63bf-e69b-4aa5-bf5d-b24805b6b06e)
-
-We can combine these basic indicators along with companies performance and fundamentals.
-
-
-**2. Healthcare Sector Insights:**
+**1. Healthcare Sector Insights:**
 
 Major healthcare companies: (2023/2024)
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
@@ -37,6 +25,18 @@ Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms
 This includes all varieties of companies. Few players concentrated on medical equipment side, other players concentrated in the pharmaceuticals sectors. 
 
 
+**2. Equities Market Insights:**
+
+Predicting market movement is still challenging due to various reasons such as high dimensionality, data noise, non stationary. The stock market is influenced by countless variables, including economic indicators, company performance, geopolitical events, investor sentiment, and even natural disasters. 
+This high dimensional means there are numerous potential predictors, many of which are noisy or have weak predictive power.
+Often the stock prices do not follow a steady or consistent, predictable pattern over time. They result is in non-stationarity, meaning their statistical properties (mean, variance, etc.) change over time due to various economic cycles, regulatory changes, and market sentiment shifts.,
+
+
+![image](https://github.com/user-attachments/assets/b4ea63bf-e69b-4aa5-bf5d-b24805b6b06e)
+
+We can combine these basic indicators along with companies performance and fundamentals.
+
+
 **3. Cloud Technologies Trends:**
 While it is estimated that AWS market share is 32%, Azure 23% and Google cloud is 10%. Below is the Google search trends results for cloud utilization for AWS, Google Cloud, and Azure.
 
@@ -56,4 +56,10 @@ Sales Margin % for Renewable/Energy Companies
 ![image](https://github.com/user-attachments/assets/2a884f64-450a-4f2a-97f8-6a8bf35bef82)
 
 
-Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms)
+Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Companies:
+
+![image](https://github.com/user-attachments/assets/b20ffd5a-fbed-4bf3-8cc7-107dc9481097)
+
+Note: Total market cap across these industries is $2,078.27 billion (i.e. 2 Trillion) with a combined headcount of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments)
+
+Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as per yahoo terms)
