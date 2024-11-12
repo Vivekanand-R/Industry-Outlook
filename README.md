@@ -29,6 +29,7 @@ Sales Margin %:
 
 Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
+
 Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms)
 
 **Insights:** The total market cap is approximately $5,044.70 billion (i.e. $5.04 trillion), and the total headcount is 2,335,570 employees across all industries in the above listed companies. 
