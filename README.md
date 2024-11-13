@@ -77,4 +77,4 @@ Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as
 
 Source: Yahoo Finance (yfinance: Personal View, Exploratory and non-commercial use as per yahoo terms)
 
-
+Note: This analysis is intended to showcase author’s business intelligence skills. It is mainly for exploration purposes only and does not constitute financial advice.
