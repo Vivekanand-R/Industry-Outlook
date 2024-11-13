@@ -63,3 +63,18 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Comp
 **Key Takeaways**: Total market cap across these industries is $2,078.27 billion (i.e. 2 Trillion) with a combined headcount of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
 
 Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as per yahoo terms)
+
+
+**5. Swiss Sectors:**
+
+![image](https://github.com/user-attachments/assets/f57e589d-c4b4-4d67-8347-d04f1dd0003a)
+
+![image](https://github.com/user-attachments/assets/7a0a89f8-2ab9-4e72-87c1-0b1052685da3)
+
+![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
+
+**Key Takeaways:**: The total market cap across these industries is $1,352.80B (or about $1.35 trillion), with a total workforce of 1,279,089 employees. Drug Manufacturers and Packaged Foods are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top companies.) 
+
+Source: Yahoo Finance (yfinance: Personal View, Exploratory and non-commercial use as per yahoo terms)
+
+
