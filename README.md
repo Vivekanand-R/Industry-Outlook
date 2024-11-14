@@ -22,7 +22,7 @@ Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms
 
 **Key Takeaways:** The total market cap is approximately $5,044.70 billion (i.e. $5.04 trillion), and the total workforce 2,335,570 (2.3 Million) employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
 
-(Edit 1) **Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive innovation.
+**Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive market growth.
 
 **2. Equities Market Insights:**
 
@@ -73,6 +73,6 @@ Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as
 
 ![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
 
-**Key Takeaways:**: The total market cap across these industries is $1,352.80B (or about $1.35 trillion), with a total workforce of 1,279,089 employees. Drug Manufacturers and Packaged Foods are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top companies.) 
+**Key Takeaways:**: The total market cap across these industries is $1,352.80B (or about $1.35 trillion), with a total workforce of 1,279,089 employees. Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top companies.) 
 
 Source: Yahoo Finance (yfinance: Personal View, Exploratory and non-commercial use as per yahoo terms and does not constitute financial advice)
