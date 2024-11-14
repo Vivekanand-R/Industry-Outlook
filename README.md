@@ -49,7 +49,8 @@ Interesting fact: According to recent information from Google, AI is now respons
 
 Sales Margin % for Renewable/Energy Companies
 
-![image](https://github.com/user-attachments/assets/2a884f64-450a-4f2a-97f8-6a8bf35bef82)
+![image](https://github.com/user-attachments/assets/eabe0d09-4907-4801-ad64-da9ec7d7fcbb)
+
 
 ![image](https://github.com/user-attachments/assets/56e2a7c1-3491-40b8-8f4e-a3af6046991b)
 
