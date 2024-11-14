@@ -20,9 +20,9 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 
 Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms)
 
-**Key Takeaways:** The total market cap is approximately $5,044.70 billion (i.e. $5.04 trillion), and the total workforce 2,335,570 (2.3 Million) employees across the industries in the above listed 33 top companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
+**Key Takeaways:** The total market cap is approximately $5,044.70 billion (i.e. $5.04 trillion), and the total workforce 2,335,570 (2.3 Million) employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
 
-(Edit 1) **Market Opportunities and Growth**: As a standalone healthcare technology company, GE Healthcare can better capture opportunities in a growing market for medical equipment and digital health solutions. Its focus on high-demand segments such as imaging and diagnostics positions it well for sustained growth. As of November 2024, According to Forbes, Philips has a market capitalization of approx $25 billion USD, has recently won the awards "World's best employer" list, currently not included in this view, good to consider.
+(Edit 1) **Market Opportunities and Growth**: 1. As a standalone healthcare technology company, GE Healthcare can better capture opportunities in a growing market for medical equipment and digital health solutions. Its focus on high-demand segments such as imaging and diagnostics positions it well for sustained growth. 2. Also, As of November 2024, According to Forbes, Philips has a market capitalization of approx $25 billion USD, has recently won "World's best employer" award from Frobes, currently not included in this view, good to consider.
 
 This includes all varieties of companies. Few players concentrated on medical equipment side, other players concentrated in the pharmaceuticals sectors. 
 
