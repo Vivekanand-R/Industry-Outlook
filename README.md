@@ -12,7 +12,9 @@ Sales Margin %:
 
 ![image](https://github.com/user-attachments/assets/f468d4e8-6c85-46eb-832c-ec59cb739f71)
 
-Top 10 by Market Cap: (2023/2024)
+![image](https://github.com/user-attachments/assets/08f26802-0b16-455a-a3ee-9d3d223a9d79)
+
+Top 10 Healthcare Companies by Market Cap: (2023/2024)
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
 Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
