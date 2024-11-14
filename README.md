@@ -13,7 +13,7 @@ Sales Margin %:
 ![image](https://github.com/user-attachments/assets/f468d4e8-6c85-46eb-832c-ec59cb739f71)
 
 Revenue YoY Growth Rate:
-![image](https://github.com/user-attachments/assets/08f26802-0b16-455a-a3ee-9d3d223a9d79)
+![image](https://github.com/user-attachments/assets/45c657fe-1320-483d-be84-553db1d1975f)
 
 Top 10 Healthcare Companies by Market Cap: (2023/2024)
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
