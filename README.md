@@ -15,7 +15,7 @@ Sales Margin %:
 Revenue YoY Growth Rate:
 ![image](https://github.com/user-attachments/assets/45c657fe-1320-483d-be84-553db1d1975f)
 
-Few companies revenue declined due to a drop in treatment demand, alongside increased competition and normalization after the pandemic boom. Additionally, investments in R&D and patent expirations might have impacted short-term growth.
+Few companies revenue decline might due to a drop in treatment demand, alongside increased competition and normalization after the pandemic boom. Additionally, investments in R&D and patent expirations might have impacted short-term growth.
 
 Top 10 Healthcare Companies by Market Cap: (2023/2024)
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
