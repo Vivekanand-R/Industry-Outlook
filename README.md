@@ -20,7 +20,7 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 
 Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms)
 
-**Key Takeaways:** The total market cap is approximately $5,044.70 billion (i.e. $5.04 trillion), and the total headcount is 2,335,570 (2.3 Million) employees across the industries in the above listed 33 top companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
+**Key Takeaways:** The total market cap is approximately $5,044.70 billion (i.e. $5.04 trillion), and the total workforce 2,335,570 (2.3 Million) employees across the industries in the above listed 33 top companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
 
 This includes all varieties of companies. Few players concentrated on medical equipment side, other players concentrated in the pharmaceuticals sectors. 
 
@@ -59,7 +59,7 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Comp
 
 ![image](https://github.com/user-attachments/assets/b20ffd5a-fbed-4bf3-8cc7-107dc9481097)
 
-**Key Takeaways**: Total market cap across these industries is $2,078.27 billion (i.e. 2 Trillion) with a combined headcount of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
+**Key Takeaways**: Total market cap across these industries is $2,078.27 billion (i.e. 2 Trillion) with a combined workforce of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
 
 Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as per yahoo terms)
 
