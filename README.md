@@ -5,15 +5,15 @@ Highlighting few open source work/insights for demonstration purposes.
 **1. Healthcare Sector Insights:**
 
 Major healthcare companies: (2023/2024)
-![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
-
-Sorted by Alphabetical Order:
 ![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
 
 
 Sales Margin %:
 
 ![image](https://github.com/user-attachments/assets/f468d4e8-6c85-46eb-832c-ec59cb739f71)
+
+Top 10 by Market Cap: (2023/2024)
+![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
 Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
@@ -50,10 +50,9 @@ Interesting fact: According to recent information from Google, AI is now respons
 
 Sales Margin % for Renewable/Energy Companies
 
-![image](https://github.com/user-attachments/assets/56e2a7c1-3491-40b8-8f4e-a3af6046991b)
-
-
 ![image](https://github.com/user-attachments/assets/2a884f64-450a-4f2a-97f8-6a8bf35bef82)
+
+![image](https://github.com/user-attachments/assets/56e2a7c1-3491-40b8-8f4e-a3af6046991b)
 
 
 Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Companies:
