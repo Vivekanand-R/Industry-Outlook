@@ -54,7 +54,7 @@ Sales Margin % for Renewable/Energy Companies
 
 ![image](https://github.com/user-attachments/assets/56e2a7c1-3491-40b8-8f4e-a3af6046991b)
 
-![image](https://github.com/user-attachments/assets/fc6294a6-51c7-413b-bdf4-481eacb593f3)
+![image](https://github.com/user-attachments/assets/33f67a1a-74e0-48d0-a1ab-940a1c3627fe)
 
 
 Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Companies:
