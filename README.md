@@ -79,12 +79,10 @@ Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as
 
 ![image](https://github.com/user-attachments/assets/7a0a89f8-2ab9-4e72-87c1-0b1052685da3)
 
-![image](https://github.com/user-attachments/assets/7952ed17-0eb2-4c70-8eda-035920963603)
-
 ![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
 
 **Key Takeaways:**: The total market cap across these industries is $1,352.80B (or about $1.35 trillion), with a total workforce of 1.27 million employees. Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top companies.) 
 
-Source: Yahoo Finance (yfinance: Personal View, Exploratory and non-commercial use as per yahoo terms and does not constitute financial advice)
+Source: Yahoo Finance (yfinance: Personal View, Exploratory and non-commercial use as per yahoo terms and does not constitute financial advice. For more information, please refer the respective companies annual reports)
 
 Intended Only for Showcasing skills to potential employers.!
