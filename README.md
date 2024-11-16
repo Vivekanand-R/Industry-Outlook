@@ -33,7 +33,7 @@ Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms
 **2. Cloud Technologies Trends:**
 While it is estimated that AWS market share is 32%, Azure 23% and Google cloud is 10%. Below is the Google search trends results for cloud utilization for AWS, Google Cloud, and Azure.
 
-Interesting fact: According to recent information from Google, AI is now responsible for 25% of overall coding. As a fun fact, AI doesn't rely on "Google Searches" to perform its tasks, as it might affect below metrics too to some extent..
+Interesting fact: It seems like, AI is now responsible for 25% of overall coding in few major companies. And, AI doesn't rely on "Google Searches" to perform its tasks, it might affect below metrics too to some extent.
 
 ![image](https://github.com/user-attachments/assets/d6e9115f-e91b-47f3-b471-83a13355ee70)
     Source: pytrends python package for cloud technologies.
