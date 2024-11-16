@@ -29,19 +29,8 @@ Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms
 
 **Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive market growth.
 
-**2. Equities Market Insights:**
 
-Predicting market movement is still challenging due to various reasons such as high dimensionality, data noise, non stationary. The stock market is influenced by countless variables, including economic indicators, company performance, geopolitical events, investor sentiment, and even natural disasters. 
-This high dimensional means there are numerous potential predictors, many of which are noisy or have weak predictive power.
-Often the stock prices do not follow a steady or consistent, predictable pattern over time. They result is in non-stationarity, meaning their statistical properties (mean, variance, etc.) change over time due to various economic cycles, regulatory changes, and market sentiment shifts.,
-
-
-![image](https://github.com/user-attachments/assets/b4ea63bf-e69b-4aa5-bf5d-b24805b6b06e)
-
-We can combine these basic indicators along with companies performance and fundamentals.
-
-
-**3. Cloud Technologies Trends:**
+**2. Cloud Technologies Trends:**
 While it is estimated that AWS market share is 32%, Azure 23% and Google cloud is 10%. Below is the Google search trends results for cloud utilization for AWS, Google Cloud, and Azure.
 
 Interesting fact: According to recent information from Google, AI is now responsible for 25% of overall coding. As a fun fact, AI doesn't rely on "Google Searches" to perform its tasks, as it might affect below metrics too to some extent..
@@ -50,7 +39,7 @@ Interesting fact: According to recent information from Google, AI is now respons
     Source: pytrends python package for cloud technologies.
 
 
-**4. Energy Sectors** (2023/2024)
+**3. Energy Sectors** (2023/2024)
 
 Sales Margin % for Renewable/Energy Companies
 
@@ -73,7 +62,7 @@ These renewable/energy companies excel uniquely, driving growth through innovati
 Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as per yahoo terms)
 
 
-**5. Swiss Sectors:**
+**4. Swiss Sectors:**
 
 ![image](https://github.com/user-attachments/assets/f57e589d-c4b4-4d67-8347-d04f1dd0003a)
 
