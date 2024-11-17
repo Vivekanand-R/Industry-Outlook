@@ -23,9 +23,10 @@ Top 10 Healthcare Companies by Market Cap: (2023/2024)
 Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
+Last Refresh: Oct/Nov 2024, All these metrics were dynamic and subject to change regularly.
 Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms)
 
-**Key Takeaways:** The total market cap is approximately $5,044.70 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
+**Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
 
 **Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive market growth.
 
@@ -37,6 +38,9 @@ Interesting fact: It seems like, AI is now responsible for 25% of overall coding
 
 ![image](https://github.com/user-attachments/assets/d6e9115f-e91b-47f3-b471-83a13355ee70)
     Source: pytrends python package for cloud technologies.
+
+![image](https://github.com/user-attachments/assets/9c46cf86-a85f-4768-8f56-3726bc9e0fd7)
+
 
 
 **3. Energy Sectors** (2023/2024)
@@ -55,7 +59,7 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Comp
 
 ![image](https://github.com/user-attachments/assets/b20ffd5a-fbed-4bf3-8cc7-107dc9481097)
 
-**Key Takeaways**: Total market cap across these industries is $2,078.27 billion (i.e. 2 Trillion) with a combined workforce of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
+**Key Takeaways**: Total market cap across these industries is $2,078 billion (i.e. 2 Trillion) with a combined workforce of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
 
 These renewable/energy companies excel uniquely, driving growth through innovation, with some undergoing strategic restructuring for the coming year.
 
@@ -70,7 +74,8 @@ Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as
 
 ![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
 
-**Key Takeaways:**: The total market cap across these industries is $1,352.80B (or about $1.35 trillion), with a total workforce of 1.27 million employees. Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
+**Key Takeaways:**: The total market cap across these industries is $1,352B (or about $1.35 trillion), with a total workforce of 1.27 million employees. Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
+Last Refresh: Oct/Nov 2024, All these metrics were dynamic and subject to change regularly.
 
 Source: Yahoo Finance (yfinance: Personal View, Exploratory and non-commercial use as per yahoo terms and does not constitute financial advice. For more information, please refer the respective companies annual reports)
 
