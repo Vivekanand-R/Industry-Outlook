@@ -32,6 +32,7 @@ Source: Yahoo Finance (yfinance: Personal, Non-commercial use as per yahoo terms
 
 
 **2. Cloud Technologies Trends:**
+
 While it is estimated that AWS market share is 32%, Azure 23% and Google cloud is 10%. Below is the Google search trends results for cloud utilization for AWS, Google Cloud, and Azure.
 
 Interesting fact: It seems like, AI is now responsible for 25% of overall coding in few major companies. And, AI doesn't rely on "Google Searches" to perform its tasks, it might affect below metrics too to some extent.
@@ -39,7 +40,7 @@ Interesting fact: It seems like, AI is now responsible for 25% of overall coding
 ![image](https://github.com/user-attachments/assets/d6e9115f-e91b-47f3-b471-83a13355ee70)
     Source: pytrends python package for cloud technologies.
 
-![image](https://github.com/user-attachments/assets/9c46cf86-a85f-4768-8f56-3726bc9e0fd7)
+![image](https://github.com/user-attachments/assets/60818517-2a35-4404-88ab-fc2b005f9883)
 
 
 
@@ -75,6 +76,7 @@ Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as
 ![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
 
 **Key Takeaways:**: The total market cap across these industries is $1,352B (or about $1.35 trillion), with a total workforce of 1.27 million employees. Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
+
 Last Refresh: Oct/Nov 2024, All these metrics were dynamic and subject to change regularly.
 
 Source: Yahoo Finance (yfinance: Personal View, Exploratory and non-commercial use as per yahoo terms and does not constitute financial advice. For more information, please refer the respective companies annual reports)
