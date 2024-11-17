@@ -40,6 +40,7 @@ Interesting fact: It seems like, AI is now responsible for 25% of overall coding
 ![image](https://github.com/user-attachments/assets/d6e9115f-e91b-47f3-b471-83a13355ee70)
     Source: pytrends python package for cloud technologies.
 
+Cloud Provider's Market Share and Key Services:
 ![image](https://github.com/user-attachments/assets/60818517-2a35-4404-88ab-fc2b005f9883)
 
 
