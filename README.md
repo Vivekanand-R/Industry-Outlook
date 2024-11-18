@@ -64,8 +64,6 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Comp
 
 These renewable/energy companies excel uniquely, driving growth through innovation, with some undergoing strategic restructuring for the coming year.
 
-Source: Yahoo Finance (yfinance: Personal, Exploratory and non-commercial use as per yahoo terms)
-
 
 **4. Swiss Sectors:**
 
