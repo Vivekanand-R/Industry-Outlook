@@ -7,6 +7,8 @@ Highlighting few open source work/insights for demonstration purposes.
 Major healthcare companies: (2023/2024)
 ![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
 
+Note: Novo Nordisk, a Danish pharmaceutical giant, specializes in diabetes care, obesity treatments, currently not included here due to currency conversions. With a market cap of ~$470 billion (2024), plays a major role in healthcare sector.
+
 
 Sales Margin %:
 
