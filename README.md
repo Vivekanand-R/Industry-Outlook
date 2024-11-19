@@ -70,8 +70,6 @@ These renewable/energy companies excel uniquely, driving growth through innovati
 
 ![image](https://github.com/user-attachments/assets/f57e589d-c4b4-4d67-8347-d04f1dd0003a)
 
-![image](https://github.com/user-attachments/assets/7a0a89f8-2ab9-4e72-87c1-0b1052685da3)
-
 ![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
 
 **Key Takeaways:**: The total market cap across these industries is $1,352B (or about $1.35 trillion), with a total workforce of 1.27 million employees. Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
