@@ -1,6 +1,6 @@
 # Market-Insights
 
-Highlighting few open source work/insights for demonstration purposes.
+Highlighting few data analytics and finance analysis open source work/insights for demonstration purpose.
 
 **1. Healthcare Sector Insights:**
 
