@@ -4,7 +4,7 @@ Highlighting few data analytics and finance analysis open source work/insights f
 
 **Case Study 1: Healthcare Sector Insights:**
 
-**Purpose/Goal:** To understand the healthcare sector, few major players and to explore different varieties of sub-segments. 
+**Purpose/Goal:** To understand the healthcare sector, few major players and to explore different varieties of sub-segments which includes Pharmaceutical Companies, Medical Equipments, Distributors and Insurance Providers. 
 
 Few Major healthcare companies : (2023/2024)
 ![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
