@@ -32,7 +32,7 @@ Last Refresh: Oct/Nov 2024, Source: Yahoo Finance (yfinance: Personal view to un
 
 **Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment manufacturers, few distributors, health insurance providers and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive market growth. 
 
-**Emerging Players:** There are other regional specific, emerging players, healthcare unicorns which could also be considered further for this case study. Additional metrics like R&D Investments, No. of Patent Filings Reports, Stock Returns, Cost of Goods Sold (COGS), Mergers and Acquisitions, Cost to Revenue Ratio will also be considered, to build a better forecasting and predictive insights. 
+**Emerging Markets:** There are other regional specific, emerging players, healthcare unicorns which could also be considered further for this case study. Additional metrics like R&D Investments, No. of Patent Filings Reports, Stock Returns, Cost of Goods Sold (COGS), Mergers and Acquisitions, Cost to Revenue Ratio will also be considered, to build a better forecasting and predictive insights. 
 
 **Case Study 2: Cloud Technologies Trends:**
 
