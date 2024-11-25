@@ -4,7 +4,9 @@ Highlighting few data analytics and finance analysis open source work/insights f
 
 **1. Healthcare Sector Insights:**
 
-Major healthcare companies: (2023/2024)
+**Purpose/Goal:** To understand the healthcare sector, few major players and to explore different varieties of sub-segments. 
+
+Major healthcare companies (International Specific) : (2023/2024)
 ![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
 
 Note: Novo Nordisk, a Danish pharmaceutical giant, specializes in diabetes care, obesity treatments, fastest growing, currently not included here due to currency conversions. With a market cap of ~$470 billion (2024), plays a major role in healthcare sector. This also includes Philips and Samsung Healthcare, as they operate as divisions within larger conglomerates currently.
@@ -24,12 +26,13 @@ Top 10 Healthcare Companies by Market Cap: (2023/2024)
 Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
-Last Refresh: Oct/Nov 2024, Source: Yahoo Finance (yfinance: Personal, Non-Commercial use as per yahoo terms)
+Last Refresh: Oct/Nov 2024, Source: Yahoo Finance (yfinance: Personal view to understand the healthcare sector, Non-Commercial use as per yahoo terms)
 
 **Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
 
-**Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive market growth.
+**Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment manufacturers, few manufacturers distributors, health insurance providers and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive market growth. 
 
+**Emerging Players:** There are lot of regional and emerging players which are yet to be considered for this study. 
 
 **2. Cloud Technologies Trends:**
 
