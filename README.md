@@ -32,7 +32,7 @@ Last Refresh: Oct/Nov 2024, Source: Yahoo Finance (yfinance: Personal view to un
 
 **Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment manufacturers, few distributors, health insurance providers and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive market growth. 
 
-**Emerging Players:** There are lot of regional and emerging players which are yet to be considered for this study. 
+**Emerging Players:** There are other regional specific, emerging players, healthcare unicorns which could also be added further. 
 
 **2. Cloud Technologies Trends:**
 
