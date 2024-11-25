@@ -2,7 +2,7 @@
 
 Highlighting few data analytics and finance analysis open source work/insights for demonstration purpose.
 
-**1. Healthcare Sector Insights:**
+**Case Study 1: Healthcare Sector Insights:**
 
 **Purpose/Goal:** To understand the healthcare sector, few major players and to explore different varieties of sub-segments. 
 
@@ -34,7 +34,7 @@ Last Refresh: Oct/Nov 2024, Source: Yahoo Finance (yfinance: Personal view to un
 
 **Emerging Players:** There are other regional specific, emerging players, healthcare unicorns which could also be added further. 
 
-**2. Cloud Technologies Trends:**
+**Case Study 2: Cloud Technologies Trends:**
 
 While it is estimated that AWS market share is 32%, Azure 23% and Google cloud is 10%. Below is the Google search trends results for cloud utilization for AWS, Google Cloud, and Azure.
 
@@ -48,7 +48,7 @@ Cloud Provider's Market Share and Key Services:
 
 
 
-**3. Energy Sectors** (2023/2024)
+**Case Study 3: Energy Sectors** (2023/2024)
 
 Sales Margin % for Renewable/Energy Companies
 
@@ -69,7 +69,7 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Comp
 These renewable/energy companies excel uniquely, driving growth through innovation, with some undergoing strategic restructuring for the coming year.
 
 
-**4. Swiss Sectors:**
+**Case Study 4: Swiss Sectors:**
 
 ![image](https://github.com/user-attachments/assets/f57e589d-c4b4-4d67-8347-d04f1dd0003a)
 
@@ -80,4 +80,7 @@ These renewable/energy companies excel uniquely, driving growth through innovati
 Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic and subject to changes.
 
 Source: Yahoo Finance (yfinance: Personal View, Exploratory and Non-Commercial use as per yahoo terms and does not constitute financial advice. For more information, please refer the respective companies annual reports)
+
+Thanks for Reading!
+
 
