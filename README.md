@@ -30,7 +30,7 @@ Last Refresh: Oct/Nov 2024, Source: Yahoo Finance (yfinance: Personal view to un
 
 **Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
 
-**Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment manufacturers, few manufacturers distributors, health insurance providers and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive market growth. 
+**Market Opportunities and Growth**: This list includes a diverse range of companies, with some focusing on medical equipment manufacturers, few distributors, health insurance providers and others specializing in pharmaceuticals. Each of these companies is thriving in its respective field, utilizing its unique strengths to foster growth and drive market growth. 
 
 **Emerging Players:** There are lot of regional and emerging players which are yet to be considered for this study. 
 
