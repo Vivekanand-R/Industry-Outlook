@@ -82,6 +82,6 @@ Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic a
 
 Source: Yahoo Finance (yfinance: Personal View, Exploratory and Non-Commercial use as per yahoo terms and does not constitute financial advice. For more information, please refer the respective companies annual reports)
 
-Thanks for Reading!
+Thanks for listening to the podcast and reading!
 
 
