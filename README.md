@@ -2,7 +2,7 @@
 
 Highlighting few data analytics and finance analysis open source work/insights for demonstration purpose.
 
-Podcast Audio Verion: https://notebooklm.google.com/notebook/f9a4584f-980e-440b-898e-926ce5bac33d/audio
+Podcast Audio Version: https://notebooklm.google.com/notebook/f9a4584f-980e-440b-898e-926ce5bac33d/audio
 
 **Case Study 1: Healthcare Sector Insights:**
 
