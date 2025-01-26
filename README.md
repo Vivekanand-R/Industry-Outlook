@@ -28,7 +28,7 @@ Top 10 Healthcare Companies by Market Cap: (2023/2024)
 Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
-Last Refresh: Oct/Nov 2024, Source: Yahoo Finance (yfinance: Personal view to understand the healthcare sector, Non-Commercial use as per yahoo terms)
+Last Refresh: Oct/Nov 2024, Source: open source API (yfinance: Personal view to understand the healthcare sector)
 
 **Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
 
@@ -80,7 +80,7 @@ These renewable/energy companies excel uniquely, driving growth through innovati
 
 Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic and subject to changes.
 
-Source: Yahoo Finance (yfinance: Personal View, Exploratory and Non-Commercial use as per yahoo terms and does not constitute financial advice. For more information, please refer the respective companies annual reports)
+Source: Open source API, for educational purpose, does not constitute financial advice. For more information, please refer the respective companies annual reports)
 
 Thanks for listening to the podcast and reading!
 
