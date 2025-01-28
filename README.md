@@ -81,7 +81,7 @@ These renewable/energy companies excel uniquely, driving growth through innovati
 Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic and subject to changes.
 
 Source: Python API (https://pypi.org/project/yfinance/)
-For educational purpose, does not constitute financial advice. For more information, please refer the respective companies annual reports)
+For exploratory purpose, does not constitute financial advice. For more information, please refer the respective companies annual reports)
 
 Thanks for listening to the podcast and reading!
 
