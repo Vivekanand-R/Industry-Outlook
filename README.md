@@ -42,7 +42,7 @@ While it is estimated that AWS market share is 32%, Azure 23% and Google cloud i
 
 ![image](https://github.com/user-attachments/assets/d6e9115f-e91b-47f3-b471-83a13355ee70)
     Source: pytrends python package for cloud technologies.
-Interesting fact: It seems like, AI is now responsible for 25% of overall coding in few major companies. And, AI doesn't rely on "Google Searches" to perform its tasks, it might affect above metrics too to some extent.
+Interesting fact: It seems like, AI is now responsible for 25% of overall coding in few major companies. 
 
 Cloud Provider's Market Share and Key Services:
 ![image](https://github.com/user-attachments/assets/60818517-2a35-4404-88ab-fc2b005f9883)
