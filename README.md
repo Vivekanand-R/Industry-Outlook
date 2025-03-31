@@ -8,14 +8,24 @@ Podcast Audio Version: https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7
 
 **Purpose/Goal:** To understand healthcare sector, few major players and to explore different varieties of sub-segments which includes Pharmaceutical Companies, Medical Equipments, Distributors and Insurance Providers. 
 
-Few Major healthcare companies : (2023/2024)
+Few Major healthcare companies : 
+
+2024 Annual, refreshed on April 01st 2025:
+![image](https://github.com/user-attachments/assets/2650fd93-5005-4997-99f8-3a0043dc4b80)
+
+
+2023 Annual, refreshed as on Q4 2024:
+
 ![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
 
 Note: Novo Nordisk, a Danish pharmaceutical company, specializes in diabetes care, obesity treatments, currently not included here due to currency conversions. With a market cap of ~$470 billion (2024), plays a major role in healthcare sector. This is applicable for few more companies as well, as they operate as divisions within larger conglomerates currently.
 
 Sales Margin %:
 
-![image](https://github.com/user-attachments/assets/e08a2b64-5332-4633-8fe9-ccba64138ac2)
+2024 Annual, refreshed on April 01st 2025:
+
+![image](https://github.com/user-attachments/assets/2293f039-4a5f-4e54-bf5b-b2a78e6911ee)
+
 
 2023 Annual:
 
@@ -28,10 +38,23 @@ Revenue YoY Growth Rate:
 
 Few companies revenue decline might due to a drop in treatment demand, alongside increased competition and normalization after the pandemic boom. Additionally, investments in R&D and patent expirations might have impacted short-term growth.
 
-Top 10 Healthcare Companies by Market Cap: (2023/2024)
+Top 10 Healthcare Companies by Market Cap: (Refreshed as on Q4 2024)
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
 Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
+
+In Q1 2025:
+
+**Take Away's: **
+
+1. Health Information Services category (GE Healthcare) added ~2,000 new roles and lost ~$2 billion in market cap between Q4 2024 and Q1 2025.
+
+2. Healthcare Plans Category (CVS, Humana Inc), Headcount Dropped by ~5%.
+
+![image](https://github.com/user-attachments/assets/e302982c-d8b9-482c-9459-6c2b477aee1f)
+
+In Q4 2024: 
+
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
 Last Refresh: Oct/Nov 2024, Source: open source API (yfinance: Personal view to understand the healthcare sector)
