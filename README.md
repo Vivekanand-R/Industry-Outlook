@@ -15,9 +15,15 @@ Note: Novo Nordisk, a Danish pharmaceutical company, specializes in diabetes car
 
 Sales Margin %:
 
+![image](https://github.com/user-attachments/assets/e08a2b64-5332-4633-8fe9-ccba64138ac2)
+
+2023 Annual:
+
 ![image](https://github.com/user-attachments/assets/f468d4e8-6c85-46eb-832c-ec59cb739f71)
 
 Revenue YoY Growth Rate:
+![image](https://github.com/user-attachments/assets/057b5e25-d726-4e44-9a6b-d7149ed5f0cf)
+
 ![image](https://github.com/user-attachments/assets/45c657fe-1320-483d-be84-553db1d1975f)
 
 Few companies revenue decline might due to a drop in treatment demand, alongside increased competition and normalization after the pandemic boom. Additionally, investments in R&D and patent expirations might have impacted short-term growth.
