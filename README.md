@@ -11,7 +11,6 @@ Podcast Audio Version: https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7
 Few Major healthcare companies : 
 
 2024 Annual, refreshed on April 01st 2025:
-![image](https://github.com/user-attachments/assets/2650fd93-5005-4997-99f8-3a0043dc4b80)
 
 
 2023 Annual, refreshed as on Q4 2024:
