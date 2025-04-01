@@ -57,13 +57,13 @@ In Q4 2024:
 
 Generic Learning's: 
 
-(If the company revenue growth drops slowly when compared to previous year, market cap drops by 2 billion, why does the company still adding more roles, what could be the strategy here ?.
+(If the company revenue growth drops slowly when compared to previous year, market cap drops by billions, why does the company still adding more roles, what could be the strategy here ?.
 
 A. Maybe Digital Transformation Push, pivoting hard into AI, SaaS, or cloud-native platforms. 
 
 B. Due to Integration of Newly Acquired Companies. 
 
-C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery (Market Cap) Is Not the Priority for now, or Betting on AI. 
+C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery (Market Cap) Is Not the Priority for now, or Betting on AI, or might be due to other reasons. 
 
 Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector)
 
