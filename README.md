@@ -22,10 +22,7 @@ Note: Novo Nordisk, a Danish pharmaceutical company, specializes in diabetes car
 
 Sales Margin %: (Click the image below to view it in full screen. Please refresh the page if any issues loading as it might due to browser idle time.)
 
-![image](https://github.com/user-attachments/assets/ad792060-6680-414b-ad1f-46c11d28455e)
-
-
-![image](https://github.com/user-attachments/assets/42558103-b48f-4098-a1b1-17a220d77292)
+![image](https://github.com/user-attachments/assets/e38922c7-732e-4acb-88bd-1c4fa50acb13)
 
 
 Revenue YoY Growth Rate:
@@ -35,14 +32,18 @@ Revenue YoY Growth Rate:
 
 Few companies revenue decline might due to a drop in treatment demand, alongside increased competition and normalization after the pandemic boom. Additionally, investments in R&D and patent expirations might have impacted short-term growth.
 
-Top 10 Healthcare Companies by Market Cap: (Refreshed as on Q4 2024)
+Top 10 Healthcare Companies by Market Cap: 
+
+![image](https://github.com/user-attachments/assets/e158552a-27f5-4d8d-8698-3407eada8b57)
+
+
 ![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
 
 Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 
 In Q1 2025:
 
-**Take Away's: **
+**What has changed ?. **
 
 1. Health Information Services category (GE Healthcare) added ~2,000 new roles and lost ~$2 billion in market cap between Q4 2024 and Q1 2025.
 
@@ -54,7 +55,7 @@ In Q4 2024:
 
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
-Last Refresh: Oct/Nov 2024, Source: open source API (yfinance: Personal view to understand the healthcare sector)
+Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector)
 
 **Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
 
