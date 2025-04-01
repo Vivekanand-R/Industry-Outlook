@@ -40,7 +40,7 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 
 In Q1 2025:
 
-**What has changed ?. **
+**What has changed in Healthcare Industry ?. **
 
 1. Health Information Services category (GE Healthcare) added ~2,000 new roles and lost ~$2 billion in market cap between Q4 2024 and Q1 2025. Maybe general recession fear or might recover in coming months. 
 
