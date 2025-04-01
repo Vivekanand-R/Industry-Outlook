@@ -36,9 +36,6 @@ Top 10 Healthcare Companies by Market Cap:
 
 ![image](https://github.com/user-attachments/assets/e158552a-27f5-4d8d-8698-3407eada8b57)
 
-
-![image](https://github.com/user-attachments/assets/6f4dca65-4fc1-45ba-a713-bf50e72d4a96)
-
 Industry-Wise Market Cap and Workforce Breakdown in Top 33 Healthcare Companies:
 
 In Q1 2025:
