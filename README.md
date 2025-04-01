@@ -42,7 +42,7 @@ In Q1 2025:
 
 **What has changed in Healthcare Industry ?. **
 
-1. Health Information Services category (GE Healthcare) added ~2,000 new roles and lost ~$2 billion in market cap between Q4 2024 and Q1 2025. Maybe general recession fear or might recover in coming months. 
+1. Health Information Services category (GE Healthcare) added ~2,000 new roles but lost ~$2 billion in market cap between Q4 2024 and Q1 2025. Maybe general recession fear or might recover in coming months. 
 
 2. Healthcare Plans Category (CVS, Humana Inc), Headcount Dropped by ~5%.
 
