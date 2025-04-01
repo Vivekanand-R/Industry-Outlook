@@ -52,6 +52,17 @@ In Q4 2024:
 
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
+
+Generic Learning's: 
+
+(If the company revenue growth drops slowly when compared to previous year, market cap drops by 2 billion, why does the company still adding more roles, what could be the strategy here ?.
+
+A. Maybe Digital Transformation Push, pivoting hard into AI, SaaS, or cloud-native platforms. 
+
+B. Due to Integration of Newly Acquired Companies. 
+
+C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery (Market Cap) Is Not the Priority for now, or Betting on AI. 
+
 Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector)
 
 **Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
