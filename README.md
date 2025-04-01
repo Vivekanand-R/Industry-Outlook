@@ -46,6 +46,8 @@ In Q1 2025:
 
 2. Healthcare Plans Category (CVS, Humana Inc), Headcount Dropped by ~5%.
 
+3. Drug Manufacturers, Headcount Up slightly (877k → 888k)
+
 ![image](https://github.com/user-attachments/assets/e302982c-d8b9-482c-9459-6c2b477aee1f)
 
 In Q4 2024: 
