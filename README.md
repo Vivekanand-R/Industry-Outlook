@@ -42,11 +42,13 @@ In Q1 2025:
 
 **What has changed in Healthcare Industry ?. **
 
-1. Health Information Services category (GE Healthcare) added ~2,000 new roles but lost ~$2 billion in market cap between Q4 2024 and Q1 2025. Maybe general recession fear or might recover in coming months. 
+1. Revenue % Growth Shift Between Major Players
+  
+2. Health Information Services category (GE Healthcare) added ~2,000 new roles but in between missed ~$2 billion in market cap between Q4 2024 and Q1 2025. 
 
-2. Healthcare Plans Category (CVS, Humana Inc), Headcount Dropped by ~5%.
+3. Healthcare Plans Category (CVS, Humana Inc), Workforce Dropped by ~5% Approx.
 
-3. Drug Manufacturers, Headcount Up slightly (877k → 888k)
+4. Drug Manufacturers, Workforce Up slightly (877k → 888k Approx)
 
 ![image](https://github.com/user-attachments/assets/e302982c-d8b9-482c-9459-6c2b477aee1f)
 
@@ -55,13 +57,13 @@ In Q4 2024:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
 
-Generic Learning's: 
+Scinario 1: 
 
-(If the company revenue growth drops slowly when compared to previous year, market cap drops by billions, why does the company still adding more roles, what could be the strategy here ?.
+If the company revenue growth drops slowly when compared to previous year, market cap drops by billions, why does the company still adding more roles, what could be the goal here ?.
 
 A. Maybe Digital Transformation Push, pivoting hard into AI, SaaS, or cloud-native platforms. 
 
-B. Due to Integration of Newly Acquired Companies. 
+B. Due to Integration of Newly Acquired Companies, R&D Investments (External or Internal). 
 
 C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery (Market Cap) Is Not the Priority for now, or Betting on AI, or might be due to other reasons. 
 
