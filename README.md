@@ -67,7 +67,7 @@ B. Due to Integration of Newly Acquired Companies, R&D Investments (External or 
 
 C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery (Market Cap) Is Not the Priority for now, or Betting on AI, or might be due to other reasons. 
 
-Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector, performing quick checks on the respective companies financial reports would also ensure better accuracy, market cap reported were dynamic in nature and subject to change)
+Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector, market cap reported were dynamic in nature and subject to change)
 
 **Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
 
