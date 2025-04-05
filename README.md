@@ -67,6 +67,10 @@ B. Due to Integration of Newly Acquired Companies, R&D Investments (External or 
 
 C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery (Market Cap) Is Not the Priority for now, or Betting on AI, or might be due to other reasons. 
 
+Pros and cons of acquiring a new company vs. investing internally:
+
+![image](https://github.com/user-attachments/assets/2ecbdd89-9d69-4ae3-8a9b-fc9707dcf008)
+
 Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector, market cap reported were dynamic in nature and subject to change)
 
 **Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
