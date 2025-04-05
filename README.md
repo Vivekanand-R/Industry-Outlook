@@ -44,7 +44,7 @@ In Q1 2025:
 
 1. Revenue % Growth Shift Between Major Players
   
-2. Health Information Services category (GE Healthcare) added ~2,000 new roles but in between missed ~$2 billion in market cap between Q4 2024 and Q1 2025. 
+2. Health Information Services category (GE Healthcare) added ~2,000 new roles, improved sales margin (from ~14% to ~16%), decline in % revenue growth (from 8% YoY to 2% YoY),  in between missed ~$2 billion in market cap between Q4 2024 and Q1 2025. 
 
 3. Healthcare Plans Category (CVS, Humana Inc), Workforce Dropped by ~5% Approx.
 
