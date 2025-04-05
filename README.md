@@ -69,7 +69,7 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 
 Pros and cons of acquiring a new company vs. investing internally:
 
-![image](https://github.com/user-attachments/assets/2ecbdd89-9d69-4ae3-8a9b-fc9707dcf008)
+![image](https://github.com/user-attachments/assets/3ad93fe6-fd1a-48a3-b041-95cda48250f8)
 
 Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector, market cap reported were dynamic in nature and subject to change)
 
