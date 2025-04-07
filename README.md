@@ -57,7 +57,7 @@ In Q4 2024:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
 
-**Scenario 1: **
+**Business Scenario 1: **
 
 If the company revenue growth drops slowly when compared to previous year, market cap drops by billions, why does the company still adding more roles, what could be the goal here ?.
 
