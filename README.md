@@ -71,6 +71,15 @@ Pros and cons of acquiring a new company vs. investing internally:
 
 ![image](https://github.com/user-attachments/assets/f0212342-820a-472e-aa89-92e8efb5fed2)
 
+
+**Best ways to Improve Sales Margin:**
+
+1. Raise Prices Strategically: Product/Services, Supply & Demand. 
+2. Cut Low-Value Costs: Supplier negociation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient ads, automating repetitive tasks, enhance Operational Efficiency, Inventory Management to aviod over stocking.
+3. Upsell & Cross-Sell Efficiently: To suggest higher tier products, Increase Customer Retention, Lead Gen. 
+4. Target High-Margin Customer Segments.
+5. Lean or Automate and Streamline Sales Operations. 
+
 Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector, market cap reported were dynamic in nature and subject to change)
 
 **Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
