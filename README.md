@@ -74,11 +74,11 @@ Pros and cons of acquiring a new company vs. investing internally:
 
 **Best ways to Improve Sales Margin:**
 
-1. Raise Prices Strategically: Product/Services, Supply & Demand. 
-2. Cut Low-Value Costs: Supplier negociation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient ads, automating repetitive tasks, enhance Operational Efficiency, Inventory Management to aviod over stocking.
+1. Raise Prices Strategically: Product or Services, Supply and Demand. 
+2. Cut Low-Value Costs: Supplier negotiation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient advertisements and resources, automating repetitive tasks, enhance operational efficiency, Inventory Management to avoid over stocking.
 3. Upsell & Cross-Sell Efficiently: To suggest higher tier products, Increase Customer Retention, Lead Gen. 
 4. Target High-Margin Customer Segments.
-5. Lean or Automate and Streamline Sales Operations. 
+5. Lean or Automate and Streamline Sales Operations effectively. 
 
 Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector, market cap reported were dynamic in nature and subject to change)
 
