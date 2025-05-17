@@ -75,7 +75,7 @@ Pros and cons of acquiring a new company vs. investing internally:
 **Best ways to Improve Sales Margin:**
 
 1. Define Prices Strategically: Product or Services, Supply and Demand. 
-2. Cut Low-Value Costs: Supplier negotiation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient advertisements and resources, automating repetitive tasks, enhance operational efficiency, Inventory Management to avoid over stocking.
+2. Cut Low-Value Costs: Supplier negotiation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient advertisements, automating repetitive tasks, enhance operational efficiency, Inventory Management to avoid over stocking.
 3. Upsell & Cross-Sell Efficiently: To suggest higher tier products, Increase Customer Retention, Lead Gen. 
 4. Target High-Margin Customer Segments.
 5. Lean or Automate and Streamline Sales Operations effectively. 
