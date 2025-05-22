@@ -42,7 +42,7 @@ In Q1 2025:
 
 1. Revenue % Growth Shift Between Major Players
   
-2. Health Information Services category (GE Healthcare) added ~2,000 new roles, improved sales margin (from ~14% to ~16%), decline in % revenue growth (from 8% YoY to 2% YoY),  in between missed ~$2 billion in market cap between Q4 2024 and Q1 2025. 
+2. Health Information Services category (GE Healthcare) improved sales margin (from ~14% to ~16%), decline in % revenue growth (from 8% YoY to 2% YoY), but overall good progress and changes in market cap observed between Q4 2024 and Q1 2025. 
 
 3. Healthcare Plans Category (CVS, Humana Inc), Workforce Dropped by ~5% Approx.
 
@@ -122,11 +122,13 @@ These renewable/energy companies excel uniquely, driving growth through innovati
 
 **Case Study 4: Swiss Sectors:**
 
+Understanding Swiss Sectors:
+
 ![image](https://github.com/user-attachments/assets/f57e589d-c4b4-4d67-8347-d04f1dd0003a)
 
 ![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
 
-**Key Takeaways:**: The total market cap across these industries is $1,352B (or about $1.35 trillion), with a total workforce of 1.27 million employees. Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
+**Key Takeaways:**: The total market cap across these industries is $1,352B (or about $1.35 trillion), with a total workforce of 1.27 million employees overall (not just swiss based). Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
 
 Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic and subject to changes.
 
