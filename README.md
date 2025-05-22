@@ -48,6 +48,8 @@ In Q1 2025:
 
 4. Drug Manufacturers, Workforce Up slightly (877k → 888k Approx)
 
+Note: Workforce = Headcount (AI is perceiving humans as headcounts by default, workforce could be a better term)
+
 ![image](https://github.com/user-attachments/assets/e302982c-d8b9-482c-9459-6c2b477aee1f)
 
 In Q4 2024: 
