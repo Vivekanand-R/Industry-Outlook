@@ -18,8 +18,6 @@ Few Major healthcare companies :
 
 ![image](https://github.com/user-attachments/assets/3192e4a4-6477-41b7-99f4-f708b6f1be94)
 
-Note: Novo Nordisk, a Danish pharmaceutical company, specializes in diabetes care, obesity treatments, currently not included here due to currency conversions. With a market cap of ~$470 billion (2024), plays a major role in healthcare sector. This is applicable for few more companies as well, as they operate as divisions within larger conglomerates currently.
-
 Sales Margin %: (Click on the below image to view it in full screen. Please refresh the page if any issues loading as it might due to browser idle time.)
 
 ![image](https://github.com/user-attachments/assets/e38922c7-732e-4acb-88bd-1c4fa50acb13)
