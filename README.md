@@ -55,7 +55,7 @@ In Q4 2024:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
 
-**Business Scenario 1: **
+**Generic Concept 1: Scenario :**
 
 If the company revenue growth drops slowly when compared to previous year, market cap drops by billions, why does the company still adding more roles, what could be the goal here ?.
 
@@ -65,12 +65,12 @@ B. Due to Integration of Newly Acquired Companies, R&D Investments (External or 
 
 C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery (Market Cap) Is Not the Priority for now, or Betting on AI, or might be due to other reasons. 
 
-Pros and cons of acquiring a new company vs. investing internally:
+**Generic Concepts 2:** Pros and cons of acquiring a new company vs. investing internally:
 
 ![image](https://github.com/user-attachments/assets/f0212342-820a-472e-aa89-92e8efb5fed2)
 
 
-**Best ways to Improve Sales Margin:**
+****Generic Concepts 3:** Best Practices: Ways to Improve Sales Margin:**
 
 1. Define Prices Strategically: Product or Services, Supply and Demand. 
 2. Cut Low-Value Costs: Supplier negotiation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient advertisements, automating repetitive tasks, enhance operational efficiency, Inventory Management to avoid over stocking.
