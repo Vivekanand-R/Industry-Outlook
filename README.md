@@ -48,7 +48,7 @@ In Q1 2025:
 
 4. Drug Manufacturers, Workforce Up slightly (877k → 888k Approx)
 
-Note: Workforce = Headcount (AI is perceiving humans as headcounts by default, workforce could be a better term)
+Note: Workforce = Headcount (Sometime AI is perceiving humans as headcounts, workforce could be a better term)
 
 ![image](https://github.com/user-attachments/assets/e302982c-d8b9-482c-9459-6c2b477aee1f)
 
@@ -57,7 +57,9 @@ In Q4 2024:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
 
-**Generic Concept 1: Scenario :**
+**Generic Concept 1: ** 
+
+**Scenarios :**
 
 If the company revenue growth drops slowly when compared to previous year, market cap drops by billions, why does the company still adding more roles, what could be the goal here ?.
 
@@ -67,12 +69,16 @@ B. Due to Integration of Newly Acquired Companies, R&D Investments (External or 
 
 C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery (Market Cap) Is Not the Priority for now, or Betting on AI, or might be due to other reasons. 
 
-**Generic Concepts 2:** Pros and cons of acquiring a new company vs. investing internally:
+**Generic Concepts 2:** 
+
+**Pros and cons of acquiring a new company vs. investing internally:**
 
 ![image](https://github.com/user-attachments/assets/f0212342-820a-472e-aa89-92e8efb5fed2)
 
 
-****Generic Concepts 3:** Best Practices: Ways to Improve Sales Margin:**
+****Generic Concepts 3:** 
+
+**Best Practices: Ways to Improve Sales Margin:**
 
 1. Define Prices Strategically: Product or Services, Supply and Demand. 
 2. Cut Low-Value Costs: Supplier negotiation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient advertisements, automating repetitive tasks, enhance operational efficiency, Inventory Management to avoid over stocking.
@@ -128,14 +134,16 @@ Understanding Swiss Sectors:
 
 ![image](https://github.com/user-attachments/assets/f57e589d-c4b4-4d67-8347-d04f1dd0003a)
 
+Note: Workforce = Headcount (Sometime AI is perceiving humans as headcounts, workforce could be a better term)
+
 ![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
 
-**Key Takeaways:**: The total market cap across these industries is $1,352B (or about $1.35 trillion), with a total workforce of 1.27 million employees overall (not just swiss based). Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
+**Key Takeaways:**: The total market cap across these industries is $1,352B (or about $1.35 trillion), with a total workforce of 1.27 million employees overall (globally). Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
 
 Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic and subject to changes.
 
 Source: Python API (https://pypi.org/project/yfinance/)
-For exploratory purpose, does not constitute financial advice. For more information, please refer the respective companies annual reports)
+For exploratory purpose, does not constitute financial advice. For more information, please refer the respective companies annual reports.
 
 Thanks for listening to the podcast and reading!
 
