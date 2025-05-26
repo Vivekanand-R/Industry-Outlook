@@ -2,7 +2,7 @@
 
 Below presentation highlights selected open-source work and insights in data analytics and financial analysis, showcased for demonstration purposes.
 
-Estimated Read Time: 8 Minutes
+Estimated Read Time: 8-10 Minutes
 
 Podcast Audio Version: 
 
@@ -10,9 +10,18 @@ https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlk
 
 # **Case Study 1: Healthcare Industry Outlook (2025):**
 
-**Purpose/Goal:** To understand healthcare sector, few major players and to explore different varieties of sub-segments which includes Pharmaceutical Companies, Medical Equipments, Distributors and Insurance Providers. 
+Goal – Healthcare Industry Outlook (2025)
+1. Evaluate macro forces reshaping healthcare: aging populations, digital health adoption, and post-pandemic policy reforms.
 
-Few Major healthcare companies : 
+2. Analyze key segments such as pharma, medtech, payers, and digital health for revenue trends, R&D investment, and innovation drivers.
+
+3. Assess regulatory and geopolitical dynamics, including drug pricing, data privacy, and global supply chain risks.
+
+4. Track M&A activity and capital flows to identify areas of consolidation and venture capital interest.
+
+5. Provide strategic insights into emerging technologies (AI, telehealth, wearables) and their impact on care delivery and system economics.
+
+A selection of major healthcare companies spanning diverse sub-segments, including pharmaceuticals, medical equipment manufacturers, healthcare distributors, and insurance providers.
 
 2024 Annual, refreshed on April 01st 2025:
 ![image](https://github.com/user-attachments/assets/23ea2a08-1b00-43f1-9797-08f379013621)
@@ -51,10 +60,11 @@ In Q1 2025:
 3. Healthcare Plans Category (CVS, Humana Inc), Workforce Dropped by ~5% Approx.
 
 4. Drug Manufacturers, Workforce Up slightly (877k → 888k Approx)
+   
+2025: 
 
-Note: Workforce = Headcount (Sometime AI is perceiving humans as headcounts, workforce could be a better term)
+![image](https://github.com/user-attachments/assets/67c02a90-a691-41f8-85fd-0fd7e3604f45)
 
-![image](https://github.com/user-attachments/assets/e302982c-d8b9-482c-9459-6c2b477aee1f)
 
 In Q4 2024: 
 
@@ -141,10 +151,6 @@ Sales Margin % for Renewable/Energy Companies
 ![image](https://github.com/user-attachments/assets/33f67a1a-74e0-48d0-a1ab-940a1c3627fe)
 
 
-Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Companies:
-
-![image](https://github.com/user-attachments/assets/b20ffd5a-fbed-4bf3-8cc7-107dc9481097)
-
 **Key Takeaways**: Total market cap across these industries is $2,078 billion (i.e. 2 Trillion) with a combined workforce of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
 
 These renewable/energy companies excel uniquely, driving growth through innovation, with some undergoing strategic restructuring for the coming year. The selection of companies reflects the author's research focus and interests.
@@ -166,15 +172,13 @@ Goal : Swiss Based Industrial Outlook
 
 Understanding Swiss Sectors (2025):
 
-![image](https://github.com/user-attachments/assets/f57e589d-c4b4-4d67-8347-d04f1dd0003a)
+![image](https://github.com/user-attachments/assets/537046ed-08bd-45c5-9487-0293397510a0)
 
-Note: Workforce = Headcount (Sometime AI is perceiving humans as headcounts, workforce could be a better term)
+![image](https://github.com/user-attachments/assets/8a62eb6f-c15a-4901-9d11-c879da409130)
 
-![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
+**Key Takeaways:**: The total market cap across these industries is $1,33B (or about $1.33 trillion), with a total workforce of 1.2 million employees overall (globally). Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
 
-**Key Takeaways:**: The total market cap across these industries is $1,352B (or about $1.35 trillion), with a total workforce of 1.27 million employees overall (globally). Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
-
-Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic and subject to changes.
+Last Refresh: May 2025, Few metrics reported like stock price were dynamic and subject to changes.
 
 Source: Python API (https://pypi.org/project/yfinance/)
 Note: This analysis is intended for individual exploratory purposes to gain insights into the various sector. For comprehensive and official information, please refer to the respective companies' annual reports. The selection of companies reflects the author's research focus and interests.
