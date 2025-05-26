@@ -21,7 +21,7 @@ Goal – Healthcare Industry Outlook (2025)
 
 5. Provide strategic insights into emerging technologies (AI, telehealth, wearables) and their impact on care delivery and system economics.
 
-Few Major healthcare companies : (Varieties of sub-segments which includes Pharmaceutical Companies, Medical Equipments, Distributors and Insurance Providers)
+A selection of major healthcare companies spanning diverse sub-segments, including pharmaceuticals, medical equipment manufacturers, healthcare distributors, and insurance providers.
 
 2024 Annual, refreshed on April 01st 2025:
 ![image](https://github.com/user-attachments/assets/23ea2a08-1b00-43f1-9797-08f379013621)
