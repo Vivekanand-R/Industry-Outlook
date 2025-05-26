@@ -51,10 +51,11 @@ In Q1 2025:
 3. Healthcare Plans Category (CVS, Humana Inc), Workforce Dropped by ~5% Approx.
 
 4. Drug Manufacturers, Workforce Up slightly (877k → 888k Approx)
+   
+2025: 
 
-Note: Workforce = Headcount (Sometime AI is perceiving humans as headcounts, workforce could be a better term)
+![image](https://github.com/user-attachments/assets/67c02a90-a691-41f8-85fd-0fd7e3604f45)
 
-![image](https://github.com/user-attachments/assets/e302982c-d8b9-482c-9459-6c2b477aee1f)
 
 In Q4 2024: 
 
