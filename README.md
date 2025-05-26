@@ -2,7 +2,7 @@
 
 Highlighting few data analytics and finance analysis open source work/insights for demonstration purpose.
 
-Estimated Read Time: 5 Minutes
+Estimated Read Time: 8 Minutes
 
 Podcast Audio Version: 
 
