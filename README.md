@@ -6,7 +6,7 @@ Podcast Audio Version:
 
 https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlkey=brczf9xeosnre6s2uymjlqu9i&st=mvvp52fp&dl=0
 
-# **Case Study 1: Healthcare Sector Insights:**
+# **Case Study 1: Healthcare Industry Outlook (2025):**
 
 **Purpose/Goal:** To understand healthcare sector, few major players and to explore different varieties of sub-segments which includes Pharmaceutical Companies, Medical Equipments, Distributors and Insurance Providers. 
 
@@ -59,7 +59,7 @@ In Q4 2024:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
 
-**Generic Concept 1: ** 
+**Generic Concept 1:** 
 
 **Scenarios :**
 
@@ -102,16 +102,17 @@ While it is estimated that AWS market share is 32%, Azure 23% and Google cloud i
 
 ![image](https://github.com/user-attachments/assets/d6e9115f-e91b-47f3-b471-83a13355ee70)
     Source: pytrends python package for cloud technologies.
-Interesting fact: It seems like, AI is now responsible for 25% of overall coding in few major companies. 
+Interesting fact: It look like, AI is now responsible for 25% of overall coding in few major companies. 
 
 Cloud Provider's Market Share and Key Services:
+
 ![image](https://github.com/user-attachments/assets/60818517-2a35-4404-88ab-fc2b005f9883)
 
 
 
-# **Case Study 3: Energy Sectors** (2023/2024)
+# **Case Study 3: Energy Industry Outlook** (2025)
 
-**2025 Latest (Refreshed on May 2025): **
+**2025 Latest (Refreshed on May 2025):**
 
 Sales Margin % for Renewable/Energy Companies
 
@@ -126,7 +127,8 @@ Sales Margin % for Renewable/Energy Companies
 
 
 
- **2024 Latest (Refreshed on Oct 2024): **
+ **Previous Report: 2024 Latest (Refreshed on Oct 2024):**
+ 
 Sales Margin % for Renewable/Energy Companies
 
 ![image](https://github.com/user-attachments/assets/eabe0d09-4907-4801-ad64-da9ec7d7fcbb)
