@@ -124,9 +124,19 @@ Cloud Provider's Market Share and Key Services:
 
 # **Case Study 3: Energy Industry Outlook** (2025)
 
-**2025 Latest (Refreshed on May 2025):**
+Goal: Energy/Renewable Industry Outlook 2025:
 
-Sales Margin % for Renewable/Energy Companies
+1. Assess the global energy transition trends, focusing on decarbonization, electrification, and energy storage innovations.
+
+2. Evaluate leading renewable and hybrid energy players on project pipelines, capex trends, and technology adoption (solar, wind, hydrogen, etc.).
+
+3. Analyze regulatory and geopolitical drivers, including ESG mandates, carbon pricing, and energy security policies.
+
+4. Track capital flows, government incentives, and private investment shaping market competitiveness and scalability.
+
+5. Deliver insights on risk factors and growth opportunities, including grid modernization, interconnection delays, and emerging markets expansion.
+
+**Sales Margin % for Renewable/Energy Companies:**
 
 ![image](https://github.com/user-attachments/assets/89be7120-ae7b-4edd-a775-1874895faee0)
 
