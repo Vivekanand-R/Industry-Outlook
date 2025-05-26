@@ -166,15 +166,13 @@ Goal : Swiss Based Industrial Outlook
 
 Understanding Swiss Sectors (2025):
 
-![image](https://github.com/user-attachments/assets/f57e589d-c4b4-4d67-8347-d04f1dd0003a)
+![image](https://github.com/user-attachments/assets/537046ed-08bd-45c5-9487-0293397510a0)
 
-Note: Workforce = Headcount (Sometime AI is perceiving humans as headcounts, workforce could be a better term)
+![image](https://github.com/user-attachments/assets/8a62eb6f-c15a-4901-9d11-c879da409130)
 
-![image](https://github.com/user-attachments/assets/d3a1fbf4-0564-4b54-bc2f-4c0dab90ec80)
+**Key Takeaways:**: The total market cap across these industries is $1,33B (or about $1.33 trillion), with a total workforce of 1.2 million employees overall (globally). Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
 
-**Key Takeaways:**: The total market cap across these industries is $1,352B (or about $1.35 trillion), with a total workforce of 1.27 million employees overall (globally). Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
-
-Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic and subject to changes.
+Last Refresh: Mar 2025, Few metrics reported like stock price were dynamic and subject to changes.
 
 Source: Python API (https://pypi.org/project/yfinance/)
 Note: This analysis is intended for individual exploratory purposes to gain insights into the various sector. For comprehensive and official information, please refer to the respective companies' annual reports. The selection of companies reflects the author's research focus and interests.
