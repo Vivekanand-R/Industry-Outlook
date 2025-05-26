@@ -1,6 +1,6 @@
 # Market-Insights/Industry Outlook
 
-Below presentation highlights select open-source work and insights in data analytics and financial analysis, showcased for demonstration purposes.
+Below presentation highlights selected open-source work and insights in data analytics and financial analysis, showcased for demonstration purposes.
 
 Estimated Read Time: 8 Minutes
 
