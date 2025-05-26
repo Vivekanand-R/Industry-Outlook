@@ -11,7 +11,7 @@ https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlk
 # **Case Study 1: Healthcare Industry Outlook (2025):**
 
 Goal – Healthcare Industry Outlook (2025)
-1. Evaluate macro forces reshaping healthcare: aging populations, digital health adoption, and post-pandemic policy reforms.
+1. Evaluate macro forces reshaping healthcare: digital health adoption, global aging, and post-pandemic policy reforms.
 
 2. Analyze key segments such as pharma, medtech, payers, and digital health for revenue trends, R&D investment, and innovation drivers.
 
@@ -75,7 +75,7 @@ In Q4 2024:
 
 **Scenarios :**
 
-If the company revenue growth drops slowly when compared to previous year, market cap drops by billions, why does the company still adding more roles, what could be the goal here ?.
+Few company's revenue growth slows compared to the previous year and its market cap drops by billions, why would it continue to add new roles? What could be the strategic intent behind this?
 
 A. Maybe Digital Transformation Push, pivoting hard into AI, SaaS, or cloud-native platforms. 
 
