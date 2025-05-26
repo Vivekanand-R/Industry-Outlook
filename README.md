@@ -2,6 +2,8 @@
 
 Highlighting few data analytics and finance analysis open source work/insights for demonstration purpose.
 
+Estimated Read Time: 5 Minutes
+
 Podcast Audio Version: 
 
 https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlkey=brczf9xeosnre6s2uymjlqu9i&st=mvvp52fp&dl=0
