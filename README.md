@@ -152,7 +152,19 @@ These renewable/energy companies excel uniquely, driving growth through innovati
 
 # **Case Study 4: Swiss Sectors:**
 
-Understanding Swiss Sectors:
+Goal : Swiss Based Industrial Outlook
+
+1. Analyze market cap, revenue, and margins to assess industry dominance and financial health.
+
+2. Compare valuation ratios (PE, P/B, dividend yield) across sectors to flag over/undervalued firms.
+
+3. Evaluate labor intensity and innovation via employee counts and sector focus (e.g., biotech, automation).
+
+4. Identify sector risks, resilience, and exposure to global trends like aging, AI, and ESG.
+
+5. Provide strategic outlooks for 2025+ on growth, digitalization, and macroeconomic positioning.
+
+Understanding Swiss Sectors (2025):
 
 ![image](https://github.com/user-attachments/assets/f57e589d-c4b4-4d67-8347-d04f1dd0003a)
 
