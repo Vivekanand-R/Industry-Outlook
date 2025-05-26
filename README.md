@@ -141,10 +141,6 @@ Sales Margin % for Renewable/Energy Companies
 ![image](https://github.com/user-attachments/assets/33f67a1a-74e0-48d0-a1ab-940a1c3627fe)
 
 
-Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Companies:
-
-![image](https://github.com/user-attachments/assets/b20ffd5a-fbed-4bf3-8cc7-107dc9481097)
-
 **Key Takeaways**: Total market cap across these industries is $2,078 billion (i.e. 2 Trillion) with a combined workforce of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
 
 These renewable/energy companies excel uniquely, driving growth through innovation, with some undergoing strategic restructuring for the coming year. The selection of companies reflects the author's research focus and interests.
