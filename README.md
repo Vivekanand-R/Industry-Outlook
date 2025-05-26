@@ -1,10 +1,14 @@
-# Market-Insights
+# Market-Insights/Industry Outlook
 
 Highlighting few data analytics and finance analysis open source work/insights for demonstration purpose.
 
-Podcast Audio Version: https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlkey=brczf9xeosnre6s2uymjlqu9i&st=mvvp52fp&dl=0
+Estimated Read Time: 8 Minutes
 
-**Case Study 1: Healthcare Sector Insights:**
+Podcast Audio Version: 
+
+https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlkey=brczf9xeosnre6s2uymjlqu9i&st=mvvp52fp&dl=0
+
+# **Case Study 1: Healthcare Industry Outlook (2025):**
 
 **Purpose/Goal:** To understand healthcare sector, few major players and to explore different varieties of sub-segments which includes Pharmaceutical Companies, Medical Equipments, Distributors and Insurance Providers. 
 
@@ -57,7 +61,7 @@ In Q4 2024:
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
 
-**Generic Concept 1: ** 
+**Generic Concept 1:** 
 
 **Scenarios :**
 
@@ -94,21 +98,39 @@ Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to unde
 
 **Emerging Markets:** There are other regional specific, emerging players, healthcare unicorns which could also be considered further for this case study. Additional metrics like Past reported R&D Investments, No. of Patent Filings Reports, Stock Returns, Cost of Goods Sold (COGS), Mergers and Acquisitions, Cost to Revenue Ratio may also be considered, to build a better forecasting and predictive healthcare insights. 
 
-**Case Study 2: Cloud Technologies Trends:**
+# **Case Study 2: Cloud Technologies Trends:**
 
 While it is estimated that AWS market share is 32%, Azure 23% and Google cloud is 10%. Below is the Google search trends results for cloud utilization for AWS, Google Cloud, and Azure.
 
 ![image](https://github.com/user-attachments/assets/d6e9115f-e91b-47f3-b471-83a13355ee70)
     Source: pytrends python package for cloud technologies.
-Interesting fact: It seems like, AI is now responsible for 25% of overall coding in few major companies. 
+Interesting fact: It look like, AI is now responsible for 25% of overall coding in few major companies. 
 
 Cloud Provider's Market Share and Key Services:
+
 ![image](https://github.com/user-attachments/assets/60818517-2a35-4404-88ab-fc2b005f9883)
 
 
 
-**Case Study 3: Energy Sectors** (2023/2024)
+# **Case Study 3: Energy Industry Outlook** (2025)
 
+**2025 Latest (Refreshed on May 2025):**
+
+Sales Margin % for Renewable/Energy Companies
+
+![image](https://github.com/user-attachments/assets/89be7120-ae7b-4edd-a775-1874895faee0)
+
+![image](https://github.com/user-attachments/assets/94f0e259-14da-4c18-9fba-013e4a5a6abe)
+
+![image](https://github.com/user-attachments/assets/619fd6c1-9e51-4ce1-b188-a8533c40bd2f)
+
+![image](https://github.com/user-attachments/assets/f7e16af3-1607-4cfe-8205-972a46438a2b)
+
+
+
+
+ **Previous Report: 2024 Latest (Refreshed on Oct 2024):**
+ 
 Sales Margin % for Renewable/Energy Companies
 
 ![image](https://github.com/user-attachments/assets/eabe0d09-4907-4801-ad64-da9ec7d7fcbb)
@@ -125,10 +147,10 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Comp
 
 **Key Takeaways**: Total market cap across these industries is $2,078 billion (i.e. 2 Trillion) with a combined workforce of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
 
-These renewable/energy companies excel uniquely, driving growth through innovation, with some undergoing strategic restructuring for the coming year.
+These renewable/energy companies excel uniquely, driving growth through innovation, with some undergoing strategic restructuring for the coming year. The selection of companies reflects the author's research focus and interests.
 
 
-**Case Study 4: Swiss Sectors:**
+# **Case Study 4: Swiss Sectors:**
 
 Understanding Swiss Sectors:
 
@@ -143,7 +165,7 @@ Note: Workforce = Headcount (Sometime AI is perceiving humans as headcounts, wor
 Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic and subject to changes.
 
 Source: Python API (https://pypi.org/project/yfinance/)
-For exploratory purpose, does not constitute financial advice. For more information, please refer the respective companies annual reports.
+Note: This analysis is intended for individual exploratory purposes to gain insights into the various sector. For comprehensive and official information, please refer to the respective companies' annual reports. The selection of companies reflects the author's research focus and interests.
 
 Thanks for listening to the podcast and reading!
 
