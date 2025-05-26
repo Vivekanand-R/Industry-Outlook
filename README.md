@@ -10,9 +10,18 @@ https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlk
 
 # **Case Study 1: Healthcare Industry Outlook (2025):**
 
-**Purpose/Goal:** To understand healthcare sector, few major players and to explore different varieties of sub-segments which includes Pharmaceutical Companies, Medical Equipments, Distributors and Insurance Providers. 
+Goal – Healthcare Industry Outlook (2025)
+1. Evaluate macro forces reshaping healthcare: aging populations, digital health adoption, and post-COVID policy reforms.
 
-Few Major healthcare companies : 
+2. Analyze key segments such as pharma, medtech, payers, and digital health for revenue trends, R&D investment, and innovation drivers.
+
+3. Assess regulatory and geopolitical dynamics, including drug pricing, data privacy, and global supply chain risks.
+
+4. Track M&A activity and capital flows to identify areas of consolidation and venture capital interest.
+
+5. Provide strategic insights into emerging technologies (AI, telehealth, wearables) and their impact on care delivery and system economics.
+
+Few Major healthcare companies : (Varieties of sub-segments which includes Pharmaceutical Companies, Medical Equipments, Distributors and Insurance Providers)
 
 2024 Annual, refreshed on April 01st 2025:
 ![image](https://github.com/user-attachments/assets/23ea2a08-1b00-43f1-9797-08f379013621)
@@ -169,7 +178,7 @@ Understanding Swiss Sectors (2025):
 
 **Key Takeaways:**: The total market cap across these industries is $1,33B (or about $1.33 trillion), with a total workforce of 1.2 million employees overall (globally). Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
 
-Last Refresh: Mar 2025, Few metrics reported like stock price were dynamic and subject to changes.
+Last Refresh: May 2025, Few metrics reported like stock price were dynamic and subject to changes.
 
 Source: Python API (https://pypi.org/project/yfinance/)
 Note: This analysis is intended for individual exploratory purposes to gain insights into the various sector. For comprehensive and official information, please refer to the respective companies' annual reports. The selection of companies reflects the author's research focus and interests.
