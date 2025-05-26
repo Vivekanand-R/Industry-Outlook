@@ -109,6 +109,37 @@ Cloud Provider's Market Share and Key Services:
 
 **Case Study 3: Energy Sectors** (2023/2024)
 
+# **2025 Latest (Refreshed on May 2025): **
+Sales Margin % for Renewable/Energy Companies
+![image](https://github.com/user-attachments/assets/89be7120-ae7b-4edd-a775-1874895faee0)
+
+![image](https://github.com/user-attachments/assets/94f0e259-14da-4c18-9fba-013e4a5a6abe)
+
+Market Cap Distribution By Industry:
+![image](https://github.com/user-attachments/assets/5fae6107-8c85-4115-9d07-8e1686329e62)
+
+![image](https://github.com/user-attachments/assets/856d6b4e-fff6-4a38-8714-54a3707e797d)
+
+
+**Key Takeaways from the Insights:**
+**Strong Revenue Growth Leaders:** First Solar (+23% YoY) and Enbridge (+20% YoY) lead the sector in revenue growth, indicating robust performance in solar and midstream infrastructure respectively. These are likely driven by expanding renewable capacity and favorable policy tailwinds.
+
+**Underperformance in Major Utilities:** Traditional power utilities like NextEra, Orsted, and TotalEnergies show negative YoY revenue growth, reflecting challenges in grid integration, regulatory delays, or commodity volatility impacting renewables profitability.
+
+**Industry Concentration in Value and Workforce:**
+Oil & Gas Integrated (e.g., Exxon, Chevron) accounts for 48.66% of total market cap and over 50% of total workforce, reaffirming its dominance in capital and labor intensity despite ESG pressure.
+Utilities – Regulated Electric follows with 25.17% market share, crucial for energy delivery but less agile in revenue growth.
+
+**Solar and Renewables Are High-Growth, Low-Scale:** Despite strong YoY growth in firms like First Solar, the Solar industry contributes only 0.95% to market cap and 2.96% to workforce, signaling under-penetration and future upside for scale and investment.
+
+**Strategic Implication:** Energy investors should balance between growth-focused clean tech (solar, fuel cells, renewables) and cash-generating traditional giants, while watching for regulatory shifts that can unlock grid modernization and distributed energy scaling.
+
+![image](https://github.com/user-attachments/assets/fbd4d13d-3c91-479f-b1b3-17f105550eca)
+
+
+
+
+# **2024 Latest (Refreshed on Oct 2024): **
 Sales Margin % for Renewable/Energy Companies
 
 ![image](https://github.com/user-attachments/assets/eabe0d09-4907-4801-ad64-da9ec7d7fcbb)
@@ -125,7 +156,7 @@ Industry-Wise Market Cap and Workforce Breakdown in Top 20 Renewable/Energy Comp
 
 **Key Takeaways**: Total market cap across these industries is $2,078 billion (i.e. 2 Trillion) with a combined workforce of 628,032 employees (only for listed 20 companies, and the industry/sector segmentation could slightly vary depends on the Industry Focus and sub segments like oil & gas). 
 
-These renewable/energy companies excel uniquely, driving growth through innovation, with some undergoing strategic restructuring for the coming year.
+These renewable/energy companies excel uniquely, driving growth through innovation, with some undergoing strategic restructuring for the coming year. The selection of companies reflects the author's research focus and interests.
 
 
 **Case Study 4: Swiss Sectors:**
@@ -143,7 +174,7 @@ Note: Workforce = Headcount (Sometime AI is perceiving humans as headcounts, wor
 Last Refresh: Oct/Nov 2024, Few metrics reported like stock price were dynamic and subject to changes.
 
 Source: Python API (https://pypi.org/project/yfinance/)
-For exploratory purpose, does not constitute financial advice. For more information, please refer the respective companies annual reports.
+Note: This analysis is intended for individual exploratory purposes to gain insights into the various sector. For comprehensive and official information, please refer to the respective companies' annual reports. The selection of companies reflects the author's research focus and interests.
 
 Thanks for listening to the podcast and reading!
 
