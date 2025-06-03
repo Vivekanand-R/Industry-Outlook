@@ -142,7 +142,7 @@ Goal: Energy/Renewable Industry Outlook 2025:
 
 ![image](https://github.com/user-attachments/assets/94f0e259-14da-4c18-9fba-013e4a5a6abe)
 
-![image](https://github.com/user-attachments/assets/619fd6c1-9e51-4ce1-b188-a8533c40bd2f)
+![image](https://github.com/user-attachments/assets/52b35cba-7f7f-45a8-8dac-d380ea8d2278)
 
 ![image](https://github.com/user-attachments/assets/f7e16af3-1607-4cfe-8205-972a46438a2b)
 
