@@ -70,36 +70,6 @@ In Q4 2024:
 
 ![image](https://github.com/user-attachments/assets/d9296762-8b15-47b8-b414-3063205593d0)
 
-
-**Generic Concept 1:** 
-
-**Scenarios :**
-
-Few company's revenue growth slows compared to the previous year and its market cap drops by billions, why would it continue to add new roles? What could be the strategic intent behind this?
-
-A. Maybe Digital Transformation Push, pivoting hard into AI, SaaS, or cloud-native platforms. 
-
-B. Due to Integration of Newly Acquired Companies, R&D Investments (External or Internal). 
-
-C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery (Market Cap) Is Not the Priority for now, or Betting on AI, or might be due to other reasons. 
-
-**Generic Concepts 2:** 
-
-**Pros and cons of acquiring a new company vs. investing internally:**
-
-![image](https://github.com/user-attachments/assets/f0212342-820a-472e-aa89-92e8efb5fed2)
-
-
-****Generic Concepts 3:** 
-
-**Best Practices: Ways to Improve Sales Margin:**
-
-1. Define Prices Strategically: Product or Services, Supply and Demand. 
-2. Cut Low-Value Costs: Supplier negotiation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient advertisements, automating repetitive tasks, enhance operational efficiency, Inventory Management to avoid over stocking.
-3. Upsell & Cross-Sell Efficiently: To suggest higher tier products, Increase Customer Retention, Lead Gen. 
-4. Target High-Margin Customer Segments.
-5. Lean or Automate and Streamline Sales Operations effectively. 
-
 Last Refresh: Apr 2025, Source: open source API (yfinance: Personal view to understand the healthcare sector, market cap reported were dynamic in nature and subject to change)
 
 **Key Takeaways:** The total market cap is approximately $5,044 billion (i.e. $5.04 trillion), and the total workforce 2.3 Million employees across the industries in the above listed 33 healthcare companies. Just for understanding, the US stock market as a whole has a total market capitalization of around $46 trillion as of 2023.
