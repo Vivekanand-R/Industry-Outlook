@@ -11,7 +11,7 @@ https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlk
 # **Case Study 1: Healthcare Industry Outlook (2025):**
 
 Goal – Healthcare Industry Outlook (2025)
-1. Evaluate macro forces reshaping healthcare: digital health adoption, global aging, and post-pandemic policy reforms.
+1. Evaluate macro forces reshaping healthcare: digital health adoption, global aging, and post-pandemic policy reforms..
 
 2. Analyze key segments such as pharma, medtech, payers, and digital health for revenue trends, R&D investment, and innovation drivers.
 
