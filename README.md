@@ -1,12 +1,8 @@
 # Market-Insights/Industry Outlook
 
-Below presentation highlights selected open-source work and insights in business data analytics and commercial financial analysis, showcased for demonstration purposes.
+Below presentation highlights selected open-source work and insights in business data analytics and commercial financial analysis:
 
 Estimated Read Time: 10-15 Minutes
-
-Podcast Audio Version: 
-
-https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlkey=brczf9xeosnre6s2uymjlqu9i&st=mvvp52fp&dl=0
 
 # **Case Study 1: Healthcare Industry Outlook (2025):**
 
@@ -159,6 +155,8 @@ Last Refresh: May 2025, Few metrics reported like stock price were dynamic and s
 Source: Python API (https://pypi.org/project/yfinance/)
 Note: This analysis is intended for individual exploratory purposes to gain insights into the various sector. For comprehensive and official information, please refer to the respective companies' annual reports. The selection of companies reflects the author's research focus and interests.
 
-Thanks for listening to the podcast and reading!
+Podcast Audio Version: https://www.dropbox.com/scl/fo/li1pkcn5jr7pq78gg0w46/ACw7pt-_SFuctI5NjooEggw?rlkey=brczf9xeosnre6s2uymjlqu9i&st=mvvp52fp&dl=0
+
+Thanks for reading!
 
 
