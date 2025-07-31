@@ -1,6 +1,6 @@
 # Market-Insights/Industry Outlook
 
-Below presentation highlights selected open-source work and insights in business data analytics and commercial financial analysis:
+Below presentation highlights selected Industry Outlook and insights primarily in business data analytics and commercial product financial analysis:
 
 Estimated Read Time: 10-15 Minutes
 
