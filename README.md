@@ -148,6 +148,9 @@ Understanding Swiss Sectors (2025):
 
 ![image](https://github.com/user-attachments/assets/8a62eb6f-c15a-4901-9d11-c879da409130)
 
+<img width="402" height="592" alt="image" src="https://github.com/user-attachments/assets/5cb7b318-aefb-4510-bb0f-c2eedee77fb6" />
+
+
 **Key Takeaways:**: The total market cap across these industries is $1,33B (or about $1.33 trillion), with a total workforce of 1.2 million employees overall (globally). Drug Manufacturers, Packaged Foods and Banking are the major players in terms of both market cap and workforce, collectively accounting for over 44% of the market cap and 35% of the workforce (within these 33 top swiss based MNC's.) 
 
 Last Refresh: May 2025, Few metrics reported like stock price were dynamic and subject to changes.
