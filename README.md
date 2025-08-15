@@ -146,7 +146,6 @@ Understanding Swiss Sectors (2025):
 
 ![image](https://github.com/user-attachments/assets/537046ed-08bd-45c5-9487-0293397510a0)
 
-![image](https://github.com/user-attachments/assets/8a62eb6f-c15a-4901-9d11-c879da409130)
 
 <img width="402" height="592" alt="image" src="https://github.com/user-attachments/assets/5cb7b318-aefb-4510-bb0f-c2eedee77fb6" />
 
